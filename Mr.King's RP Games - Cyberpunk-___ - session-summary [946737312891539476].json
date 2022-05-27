@@ -1,0 +1,296 @@
+{
+  "guild": {
+    "id": "891103869097082901",
+    "name": "Mr.King's RP Games",
+    "iconUrl": "https://cdn.discordapp.com/icons/891103869097082901/a463d7b6979660de1a49b4eb3496507b.png"
+  },
+  "channel": {
+    "id": "946737312891539476",
+    "type": "GuildTextChat",
+    "categoryId": "946736290945196072",
+    "category": "Cyberpunk-???",
+    "name": "session-summary",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "951970160988786748",
+      "type": "Default",
+      "timestamp": "2022-03-11T22:29:33.13+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "3/11/2022\n\nCase approached Finn with a lucrative job, but one that required an actual team, for once.  Finn puts together his best crew and they storm off to an NCPD storage facility to klep some medical supplies and, maybe, some interesting food items?\n\nThe team storms the parking facility, being quiet hardly a concern.  They spook the lone guard and a firefight ensues.  Half the team takes on the guard and the other half attempts to deal with the automated defenses (a spider drone bears down on Louz and Case and is destroyed by Finn and Antoni).\n\nThe guard is teargassed and shot to death while Case is escorted to an access point.  Another guard sneaks up on the team and shoots Louz in the back.  Pulse and Finn approach Louz and Pulse is able to stabilize him.\n\nIn the meantime, Case is attempting to hack into the NET of the NCPD facility.  He struggles and is able to get away from one Black ICE only to find a control node for the fire suppression system.  After turning this on and immediately back off, she delves deeper and is confronted with a Hellhound Black ICE.  In this confrontation, they are set on fire and jack out of the system, not accomplishing his goals.  She ends up severely injured.\n\nThe team is able to deal with the second guard by using some teamwork and snags the loot (after Antoni hacks the electronic lock).  They rush back to Jim's before backup can arrive.\n\n**I need to deal with four things with each of you before next session.\n\n-Spending your Improvement Points or saving them (details attached)\n-Spending your money\n-Healing\n-Hustle\n\nReach out to work on each of these via DMs before next session!**",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "951970220455632998",
+      "type": "Default",
+      "timestamp": "2022-03-11T22:29:47.308+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "951970317339881504",
+      "type": "Default",
+      "timestamp": "2022-03-11T22:30:10.407+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "951970317104980059",
+          "url": "https://cdn.discordapp.com/attachments/946737312891539476/951970317104980059/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 56150
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "951970342723792997",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2022-03-11T22:30:16.459+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "951970317339881504",
+        "channelId": "946737312891539476",
+        "guildId": null
+      }
+    },
+    {
+      "id": "968217588964425748",
+      "type": "Default",
+      "timestamp": "2022-04-25T18:31:01.822+00:00",
+      "timestampEdited": "2022-04-25T18:35:36.732+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "4/22/2022:\n\n*The team gets ready to go, with Pulse back and Finn...elsewhere? They pile into the van and head to the convenience store, where Louz hopes to charm the socks off anyone in charge.  \n\nAlong the way, they are ambushed by a pair of submachine gun toting motorcyclists.  Lex valiantly tries to keep the van under control as it is riddled with bullets.  Louz and Antony return fire, taking hits but keeping themselves healthy.  \n\nLex eventually loses control of the van, as it blows a tire.  The van slams one of the motorcyclists into the median while careening off into the shoulder in a cloud of dust.  The other biker takes off, but Pulse's keen eyes spot a sniper on a rooftop.  The sniper tries to pick them off, managing a solid hit on Antony, collapsing his lung.  In the meantime, Lex decides to get out of the van and check on her cat!\n\nThe cat lives in a specially-designed box on the roof.  As Lex climbs the rear ladder on the van, she takes hits from the sniper.  One of the hits severs her left arm, leaving it dangling by a tendon.  She abandons her quest, heading back into the vehicle.\n\nLouz contacts a friend, Cherry-Bomb, who arrives in a flying Trauma Team vehicle, stolen.  She flies them to the convenience store, however, a few members of the team noticed strange things about her.  Louz tries to wrestle with her, eventually causing a socket on her neck to short out.  Louz heads in to do the job, Case and Lex head to the alleyway to hack in, and the others stay with Cherry Bomb to keep watch.  \n\nLouz is able to meet up with the clerk he spoke with before, however, they seem very worried and upset.  Case is able to hack in and starts working on the networked devices.  Pulse and Antony, while trying to look at the chip that was in Cherry Bombs neck, learn that it is possible she may be a clone.  This is unheard of, as clones are - by law and scientific necessity - only use for growing replacement parts.  In the process, Antony's laptop is destroyed.*",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "913471356413304923",
+            "name": "hippy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/913471356413304923.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "949427652178087967",
+            "name": "roaring_pup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/949427652178087967.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "897816585929109525",
+            "name": "not_peregrine",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/897816585929109525.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "895815350300577842",
+            "name": "Zahir",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/895815350300577842.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "903671742881464400",
+            "name": "kitty",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/903671742881464400.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "897817159344988231",
+            "name": "maxarrows",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/897817159344988231.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "968218817819975691",
+      "type": "Default",
+      "timestamp": "2022-04-25T18:35:54.804+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone - I hit the button too soon, I've edited the summary.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968218875810447390",
+      "type": "Default",
+      "timestamp": "2022-04-25T18:36:08.63+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'll post the next stages of the adventure here when I have a moment.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968472153156628480",
+      "type": "Default",
+      "timestamp": "2022-04-26T11:22:34.655+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone \n\n*Louz and Case manage to coordinate quite well.  Case breaks into the first control node and is able to shut down the locks (and, since they're on the same node, all of the lights as well.  When Louz steps into the back room, he sees his admirer deep in conversation with the fixer he's come to rob!  The clerk gives Louz wild eyes and indicates the side door of the facility with his head.  Louz is able to get through the usually-locked side door into the other part of the facility, roughly at the same time as Case shuts down the cameras.  \n\nPulse and Antony continue to try to figure out what's going on with the \"dead\" person in the vehicle.  Together, and with the help of some phone calls, they're able to learn that she's a clone who was running some kind of experimental software which was trying to make her seem like the real Cherry-Bomb.  This raises concerns - it has to be assumed that the real Cherry-Bomb is tucked away somewhere.  You couldn't risk having them run into each other, or having people see two of them.  What happened to Cherry-Bomb?  How is this technology possible??\n\nThe gang is able to get back to the vehicle, Louz toting the briefcase.  They try to start up the \"boosted\" Trauma Tech flier, but find that it is impossible.  Cherry-Bomb had wired it so that it would only run for her, and with a deadman's switch as well.  The team is out of luck - no stolen flying car for them.  Lex calls her family and one of her cousins arrives with a huge pickup truck to take them back.*",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "968505231795179590",
+      "type": "Default",
+      "timestamp": "2022-04-26T13:34:01.217+00:00",
+      "timestampEdited": "2022-04-26T13:34:11.353+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Finn.  Oh, Finn.\n\nFinn has been investigating setting up a night market for some time.  On the evening prior to the events of last session, Finn approached another fixer who is an acquaintance of his to ask about getting their help in setting up the night market.  This fixer saw an opportunity to make a quick eddy and locked him in a closet, contacting the Tyger Claws who own the building to send ransom.\n\nFortunately for Finn, Kaneko (the Danger Gals plant who runs the building now) sees him as more useful than the 100,000 ED she's been asked to pay.  She gets him out and together, while the team is at the convenience store, they leak sensitive information on the fixer that essentially keeps anyone from working with them again\n\nFinn arrives back at Jim's Donuts minutes before the team*",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 9
+}

@@ -1,0 +1,45 @@
+{
+  "guild": {
+    "id": "891103869097082901",
+    "name": "Mr.King's RP Games",
+    "iconUrl": "https://cdn.discordapp.com/icons/891103869097082901/a463d7b6979660de1a49b4eb3496507b.png"
+  },
+  "channel": {
+    "id": "946737644124135444",
+    "type": "GuildTextChat",
+    "categoryId": "946736290945196072",
+    "category": "Cyberpunk-???",
+    "name": "canon-idea-suggestion",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "952268720754012260",
+      "type": "Default",
+      "timestamp": "2022-03-12T18:15:55.325+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Thank you for playing yesterday!  I wanted to break down what happened and what your options were so you can better understand how things might go in the future. As you know by now, I don't usually create episodes with only a single path.  I wanted to pull back the curtain and let you see how things could have played out yesterday.  Remember to think about your character's goals/motivations and their role ability!\n\n1. Guns Blazing - this was always an option, and was the one you took.  I wanted to go over combat anyway, for all of our sakes, and had another combat lined up in case you didn't go this way at the NCPD facility.   You got to see how fast and furious combat can be, and how deadly.  \n\n2. Stealthy Netrunner - Another option would have been for the stealthy characters to escort the netrunner to the access point.  The netrunner could hack in, shut some things down, and get a feel for the place, while the other characters kept watch (the spider bot could have made an appearance, it also was controlled by a control node deeper in the NET - so Case could have driven it!).\n\n3. Talk to the Guy - Louz is a rockerboy, and has the ability to make his fans do things (and make people into fans).  He could have walked up to the guard (dangerous, I know) and tried to get him to leave in some way, maybe with Louz himself.  Louz and Finn (I think) also have a number of useful skills for dealing with people.\n\n4. Something I never thought of!\n\nNo matter what happened, I just want you to know that there are always multiple ways for things to go.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

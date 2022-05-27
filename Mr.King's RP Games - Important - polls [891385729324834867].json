@@ -1,0 +1,323 @@
+{
+  "guild": {
+    "id": "891103869097082901",
+    "name": "Mr.King's RP Games",
+    "iconUrl": "https://cdn.discordapp.com/icons/891103869097082901/a463d7b6979660de1a49b4eb3496507b.png"
+  },
+  "channel": {
+    "id": "891385729324834867",
+    "type": "GuildTextChat",
+    "categoryId": "891103869097082902",
+    "category": "Important",
+    "name": "polls",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "893534322718560256",
+      "type": "20",
+      "timestamp": "2021-10-01T16:26:23.601+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**:bar_chart: Which do you prefer? High action, lots of dialogue, brooding.**",
+      "author": {
+        "id": "324631108731928587",
+        "name": "Simple Poll",
+        "discriminator": "9879",
+        "nickname": "Simple Poll",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/324631108731928587/7dbf4eec7a6c1f7f2d3969a5c7008bb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "\uD83C\uDDE6 Action!\n\uD83C\uDDE7 I talk too much.\n\uD83C\uDDE8 I'm dark, so dark.",
+          "color": "#955C87",
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "909964136769806356",
+      "type": "Default",
+      "timestamp": "2021-11-16T00:32:36.522+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**:bar_chart: You've all heard the pros and cons of both options, so let's make a choice: should we sneak in? Or should I call in Crackerjack?**",
+      "author": {
+        "id": "324631108731928587",
+        "name": "Simple Poll",
+        "discriminator": "9879",
+        "nickname": "Simple Poll",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/324631108731928587/7dbf4eec7a6c1f7f2d3969a5c7008bb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "\uD83C\uDDE6 Sneak in.\n\uD83C\uDDE7 Call in Calamity",
+          "color": "#955C87",
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1e6.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1e7.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "946190570420854844",
+      "type": "Default",
+      "timestamp": "2022-02-23T23:43:31.359+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Two polls below to help me start fleshing out the upcoming Cyberpunk campaign.  First up, choose a player type - *important* this is you as a player, not what you anticipate your character to be (worth noting - things go better for everyone when the two sync up anyway).  Below, from the core book:  \n\n• Warriors: Combat oriented Players like to engage in tests of skill against adversaries. They want to build\nthe strongest fighter in the group, as well as have the best weapons or combat abilities.  \uD83E\uDD77 \n• Socializers: Social-oriented Players are all about the overall game experience. They like to tell jokes,\nrecord stories, and contribute in ways that are not directly within the game. In and out of the game, they\ntend to take supportive roles. \uD83E\uDD8B \n• Explorers: Exploration oriented players like to find new things in the world. They like to make friends and\nalliances and find new places and things to experience. They also love to solve non-combat related puzzles\nand mysteries.  \uD83E\uDD20 \n• Roleplayers: Roleplay oriented Players like to concentrate on playing their character as accurately to\ntype as possible. They enjoy constructing elaborate backgrounds for the character, often including personal\nprops, pictures and even special diaries. They enjoy \"acting out\" important scenes with speeches or elaborate descriptions.  \uD83D\uDE3A",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD77",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f977.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD8B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f98b.svg"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD20",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f920.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE3A",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f63a.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "946200542575747132",
+      "type": "Default",
+      "timestamp": "2022-02-24T00:23:08.906+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Next up, team jobs.  These aren't specific to Cyberpunk, but come from general spy/caper story concept (applied here via the Cyberpunk core book to meet its needs).  Most good, functional teams have a solid mix of characters in these roles.  Again, these are more conceptual, to help you think of your characters \"job\" in the team.  This isn't your character's \"class\", it's just a way to think of how they relate to the team.  Choose what team jobs you most enjoy playing. Feel free to pick more than one, but think of what interests you the most! \n\n*The Mastermind \uD83E\uDD2F \n*The Hacker ⌨️ \n*The Healer/ Buff \uD83D\uDE91 \n*The Face \uD83D\uDE0E \n*The Sneak :not_peregrine: \n*The Tank \uD83D\uDD2B \n*The Techy \uD83D\uDD27 \n*The Driver \uD83C\uDFCE️ \n*The Resource \uD83E\uDDD0",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD2F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f92f.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "⌨️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/2328.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE91",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f691.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f60e.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "897816585929109525",
+            "name": "not_peregrine",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/897816585929109525.png"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD2B",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f52b.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD27",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f527.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDFCE️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f3ce.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDDD0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f9d0.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "946816386011910254",
+      "type": "Default",
+      "timestamp": "2022-02-25T17:10:17.423+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone To further assist in the first poll above, take a look at the photo below.  Circle (mentally or digitally) 5-8 items total that you most enjoy doing in roleplay games.  The box with the most circled is your primary playstyle and the one with the second most is your secondary playstyle. These matter when I give XP in Cyberpunk!!  Update your choice in the poll to reflect your primary playstyle based on this.  Keep note of your secondary playstyle yourself.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "946816401258188830",
+      "type": "Default",
+      "timestamp": "2022-02-25T17:10:21.058+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "946816401023324180",
+          "url": "https://cdn.discordapp.com/attachments/891385729324834867/946816401023324180/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 56132
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 6
+}

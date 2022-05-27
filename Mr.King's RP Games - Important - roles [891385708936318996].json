@@ -1,0 +1,167 @@
+{
+  "guild": {
+    "id": "891103869097082901",
+    "name": "Mr.King's RP Games",
+    "iconUrl": "https://cdn.discordapp.com/icons/891103869097082901/a463d7b6979660de1a49b4eb3496507b.png"
+  },
+  "channel": {
+    "id": "891385708936318996",
+    "type": "GuildTextChat",
+    "categoryId": "891103869097082902",
+    "category": "Important",
+    "name": "roles",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "891421450555248650",
+      "type": "Default",
+      "timestamp": "2021-09-25T20:30:35.622+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "235148962103951360",
+        "name": "Carl-bot",
+        "discriminator": "1536",
+        "nickname": "Carl-bot",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/235148962103951360/ed3dac3b6e7a851df781632a4295fcb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Gender",
+          "url": null,
+          "timestamp": null,
+          "description": "❤️ @She/her\n\uD83D\uDC99 @He/Him\n\uD83E\uDDE1 @They/Them\n\uD83D\uDC9A @Any Pronouns\n\uD83D\uDC9C @Genderfluid\n\uD83D\uDC93 @Other",
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/2764.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC99",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f499.svg"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDDE1",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f9e1.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC9A",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f49a.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC9C",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f49c.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC93",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f493.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "891424079062659092",
+      "type": "Default",
+      "timestamp": "2021-09-25T20:41:02.307+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "235148962103951360",
+        "name": "Carl-bot",
+        "discriminator": "1536",
+        "nickname": "Carl-bot",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/235148962103951360/ed3dac3b6e7a851df781632a4295fcb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Species",
+          "url": null,
+          "timestamp": null,
+          "description": "\uD83E\uDDDB @Vampire\n\uD83E\uDDD9 @Mage\n\uD83D\uDC3A @Werewolf",
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDDDB",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f9db.svg"
+          },
+          "count": 7
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDDD9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f9d9.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC3A",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f43a.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

@@ -1,0 +1,643 @@
+{
+  "guild": {
+    "id": "891103869097082901",
+    "name": "Mr.King's RP Games",
+    "iconUrl": "https://cdn.discordapp.com/icons/891103869097082901/a463d7b6979660de1a49b4eb3496507b.png"
+  },
+  "channel": {
+    "id": "897935756910288916",
+    "type": "GuildTextChat",
+    "categoryId": "891383671892877402",
+    "category": "World Of Darkness-The Scottish Holiday",
+    "name": "char_sheets",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "897936180115538000",
+      "type": "Default",
+      "timestamp": "2021-10-13T19:57:48.187+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Digital, editable character sheet - for those who want such a thing.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "897936179847123025",
+          "url": "https://cdn.discordapp.com/attachments/897935756910288916/897936179847123025/VtR1-Page_Editable.pdf",
+          "fileName": "VtR1-Page_Editable.pdf",
+          "fileSizeBytes": 1592528
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "897936326249299989",
+      "type": "Default",
+      "timestamp": "2021-10-13T19:58:23.028+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "For the above sheet, to convert the pdf into a jpeg or png for reposting to this channel for everyone to see without having to download:  https://documentcloud.adobe.com/link/acrobat/pdf-to-image?x_api_client_id=adobe_com&x_api_client_location=pdf_to_image",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "897936389931409448",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2021-10-13T19:58:38.211+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "897936180115538000",
+        "channelId": "897935756910288916",
+        "guildId": null
+      }
+    },
+    {
+      "id": "897936403621625916",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2021-10-13T19:58:41.475+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "897936326249299989",
+        "channelId": "897935756910288916",
+        "guildId": null
+      }
+    },
+    {
+      "id": "897987484812722187",
+      "type": "Default",
+      "timestamp": "2021-10-13T23:21:40.18+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "897987484565270548",
+          "url": "https://cdn.discordapp.com/attachments/897935756910288916/897987484565270548/Allisons_WoD_Sheet_110241024_1.jpg",
+          "fileName": "Allisons_WoD_Sheet_110241024_1.jpg",
+          "fileSizeBytes": 233789
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "898560064753926214",
+      "type": "Default",
+      "timestamp": "2021-10-15T13:16:53.876+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "898560064439336990",
+          "url": "https://cdn.discordapp.com/attachments/897935756910288916/898560064439336990/Zahir_Character_Sheet10241024_1.png",
+          "fileName": "Zahir_Character_Sheet10241024_1.png",
+          "fileSizeBytes": 661472
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "898560090087489587",
+      "type": "Default",
+      "timestamp": "2021-10-15T13:16:59.916+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Deleted User",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "898560660965830727",
+      "type": "Default",
+      "timestamp": "2021-10-15T13:19:16.024+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Auspex 1 - Heightened Senses\nWhen this power is activated, all of the vampire’s senses\nsharpen to a razor’s edge, effectively doubling both the range\nand clarity of all stimuli received. Heightened eyesight allows\nthe vampire to perceive the most minute details of objects at\ngreat distances, while a heightened sense of smell might alert\na character to the presence of trace amounts of alcohol on a\nmortal’s breath. Kindred with this power also have the option\nof magnifying a single sense, as opposed to all five, in order to\nbetter block out unwanted stimuli from other sources. Note,\nhowever, that the risk of sudden distraction remains, regardless\nof how many or how few senses are currently heightened.\n(Note that vampires do not breathe. As such, the Kindred do\nnot smell unless they actively will themselves to do so, and\nthus cannot be overwhelmed suddenly by smells unless they\nare actively smelling at the time.)",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "898560725713317888",
+      "type": "Default",
+      "timestamp": "2021-10-15T13:19:31.461+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Note:  This power can allow a vampire to see in pitch black darkness*",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "898561534580654140",
+      "type": "Default",
+      "timestamp": "2021-10-15T13:22:44.31+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Obfuscate 1 - Touch of Shadow\nThis first level of Obfuscate allows the vampire to conceal\nsmall items, either in her grasp or on her person. If she is skilled\nenough, even a thorough search fails to turn up a hidden object.\nIncreasingly larger objects might be hidden if the Discipline\nuser is particularly adept.\nCost:—\nDice Pool: Wits + Larceny + Obfuscate\nAction: Instant",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "898561670073450496",
+      "type": "Default",
+      "timestamp": "2021-10-15T13:23:16.614+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Obfuscate 2 - Mask of Tranquility\nThe Kindred masters the art of hiding himself to such a\ndegree that he may subvert some of the stains that undeath\nleaves upon his soul. A vampire who knows this power can\nmask his Kindred nature from onlookers, leaving them without\nthe impression that the Predator’s Taint inflicts.\nCost: —\nDice Pool: This power involves no roll, and is considered\n“always on.” The character does not trigger the\nPredator’s Taint (see p. 168). Therefore, the character\ndoesn’t even appear as a vampire to other Kindred who\nsee him. Kindred who can discern auras fail to register\nthe vampire as undead;",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "898631944974262282",
+      "type": "Default",
+      "timestamp": "2021-10-15T18:02:31.456+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "898631944718385202",
+          "url": "https://cdn.discordapp.com/attachments/897935756910288916/898631944718385202/Moonshine_Char_Sheet10241024_1.png",
+          "fileName": "Moonshine_Char_Sheet10241024_1.png",
+          "fileSizeBytes": 663072
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "898631965505380392",
+      "type": "Default",
+      "timestamp": "2021-10-15T18:02:36.351+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@atomzz240",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "895864458981826641",
+          "name": "atomzz240",
+          "discriminator": "9813",
+          "nickname": "atomzz240",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "910570338780332103",
+      "type": "Default",
+      "timestamp": "2021-11-17T16:41:26.344+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Updated Sheet",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "910570338369286164",
+          "url": "https://cdn.discordapp.com/attachments/897935756910288916/910570338369286164/Screenshot_20211117-102947_Drive.jpg",
+          "fileName": "Screenshot_20211117-102947_Drive.jpg",
+          "fileSizeBytes": 407452
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "910917086417661963",
+      "type": "Default",
+      "timestamp": "2021-11-18T15:39:17.423+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "910917084693794906",
+          "url": "https://cdn.discordapp.com/attachments/897935756910288916/910917084693794906/IMG_5457.jpg",
+          "fileName": "IMG_5457.jpg",
+          "fileSizeBytes": 3268882
+        },
+        {
+          "id": "910917085343940658",
+          "url": "https://cdn.discordapp.com/attachments/897935756910288916/910917085343940658/IMG_5458.jpg",
+          "fileName": "IMG_5458.jpg",
+          "fileSizeBytes": 3089631
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "910944035852668948",
+      "type": "Default",
+      "timestamp": "2021-11-18T17:26:22.669+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "910944035378704414",
+          "url": "https://cdn.discordapp.com/attachments/897935756910288916/910944035378704414/20211118_122601.jpg",
+          "fileName": "20211118_122601.jpg",
+          "fileSizeBytes": 1892670
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "910944036989304892",
+      "type": "Default",
+      "timestamp": "2021-11-18T17:26:22.94+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GG @Max-A-Million, you just advanced to level 15!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "570765952665387024",
+          "name": "Max-A-Million",
+          "discriminator": "8539",
+          "nickname": "Louz [Maximilian]",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "910945968051073054",
+      "type": "Default",
+      "timestamp": "2021-11-18T17:34:03.341+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I forgot to send my updated one \uD83D\uDE05",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [
+        {
+          "id": "910945967770058752",
+          "url": "https://cdn.discordapp.com/attachments/897935756910288916/910945967770058752/Zahirs_current_day_sheet_20211104193408.png",
+          "fileName": "Zahirs_current_day_sheet_20211104193408.png",
+          "fileSizeBytes": 793118
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "895815350300577842",
+            "name": "Zahir",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/895815350300577842.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "910962508041424967",
+      "type": "Default",
+      "timestamp": "2021-11-18T18:39:46.782+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Make fun of my pictures smh/j",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "910962508158861312",
+          "url": "https://cdn.discordapp.com/attachments/897935756910288916/910962508158861312/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 449827
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "910963652943839292",
+      "type": "Default",
+      "timestamp": "2021-11-18T18:44:19.748+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "XD",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911252926033449021",
+      "type": "Default",
+      "timestamp": "2021-11-19T13:53:47.827+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@atomzz240 Moonshine updated Char sheet.  I'll note, I don't think he's ever been played according to his Virtue :/",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "911252925811138610",
+          "url": "https://cdn.discordapp.com/attachments/897935756910288916/911252925811138610/Moonshine_Char_Sheet.jpg",
+          "fileName": "Moonshine_Char_Sheet.jpg",
+          "fileSizeBytes": 740531
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "895864458981826641",
+          "name": "atomzz240",
+          "discriminator": "9813",
+          "nickname": "atomzz240",
+          "isBot": false
+        }
+      ]
+    }
+  ],
+  "messageCount": 21
+}

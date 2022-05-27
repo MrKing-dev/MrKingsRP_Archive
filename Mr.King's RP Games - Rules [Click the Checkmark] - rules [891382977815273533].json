@@ -1,0 +1,55 @@
+{
+  "guild": {
+    "id": "891103869097082901",
+    "name": "Mr.King's RP Games",
+    "iconUrl": "https://cdn.discordapp.com/icons/891103869097082901/a463d7b6979660de1a49b4eb3496507b.png"
+  },
+  "channel": {
+    "id": "891382977815273533",
+    "type": "GuildTextChat",
+    "categoryId": "891398111145132073",
+    "category": "Rules [Click the Checkmark]",
+    "name": "rules",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "891404883092189235",
+      "type": "Default",
+      "timestamp": "2021-09-25T19:24:45.631+00:00",
+      "timestampEdited": "2022-01-06T10:55:28.212+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Rules: \n1. No inappropriate content of any sort. This goes for swearing, NSFW, toxic behavior, etc. This server should always stay school-appropriate. This is a safe environment, anyone who attempts to disrupt it will face consequences.\n2. Use each channel properly. They have a use for a reason, and if you aren't sure what a channel is for, you can ask in #questions.\n3. This server is for The Case of Ashley Davkia Mega Episode ONLY. Please do not invite people who are not a part of the project, and if it becomes a repeated offense, this ability will be taken away.\n4. No pinging roles, spamming, or excessive pinging. (Aside from the spam channel, still don’t spam ping anyone) \n5. Do not attack others directly, any form of racism, sexism, homophobia, etc. will be punished.\n6. Keep serious arguments and discussions, especially about religion and politics in private messages. \n7. Don’t be passive-aggressive or rude in general. If someone asks you to stop doing something because it makes them uncomfortable, please listen.\n8. No advertising without permission from a moderator. \n9. If you are caught breaking any of these rules, you will not only be kicked/banned from the server but depending on the offense, you could also be reported to the school as this is still a school project. Do not think because you delete a message it is gone forever, as all activity on this server is logged.",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/2705.svg"
+          },
+          "count": 11
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

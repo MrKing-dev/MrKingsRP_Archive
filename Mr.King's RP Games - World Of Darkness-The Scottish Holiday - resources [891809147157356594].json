@@ -1,0 +1,877 @@
+{
+  "guild": {
+    "id": "891103869097082901",
+    "name": "Mr.King's RP Games",
+    "iconUrl": "https://cdn.discordapp.com/icons/891103869097082901/a463d7b6979660de1a49b4eb3496507b.png"
+  },
+  "channel": {
+    "id": "891809147157356594",
+    "type": "GuildTextChat",
+    "categoryId": "891383671892877402",
+    "category": "World Of Darkness-The Scottish Holiday",
+    "name": "resources",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "891814115411124244",
+      "type": "Default",
+      "timestamp": "2021-09-26T22:30:54.219+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Vampire Sourcebook: https://drive.google.com/file/d/1CTDoDC9-V3JhIi-D93t7N4XJ7uYpfvgP/view?usp=drivesdk",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "[WW25000] Vampire the Requiem.pdf",
+          "url": "https://drive.google.com/file/d/1CTDoDC9-V3JhIi-D93t7N4XJ7uYpfvgP/view?usp=drivesdk",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/D3fINHvw5NzWivSA1afAJ4Op5hWdLuhm9V23HXFE-4I/https/lh6.googleusercontent.com/MZaEONlJLpQFw5cSrp1NlR9fwPwOOPttBzpc0Guj9ZBxtMQitkXCzkRuJiXRPUHmNBw%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "891814181408497725",
+      "type": "Default",
+      "timestamp": "2021-09-26T22:31:09.954+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "World of Darkness Sourcebook: https://drive.google.com/file/d/1Z6BxsfXXVpBp56l0TYoDzuZ4IPrgCsmz/view?usp=drivesdk",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "[WW55002] World of Darkness.pdf",
+          "url": "https://drive.google.com/file/d/1Z6BxsfXXVpBp56l0TYoDzuZ4IPrgCsmz/view?usp=drivesdk",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/SbDgdDTNgzCAnRKaI-XR7Oh073jqMXiZX6LiyGEHX4g/https/lh3.googleusercontent.com/6oBO8j7u2YSMBw9915OUknGgYKw41YUlRCz1_q_VitqWYXGLo-REJ_Kemh0rGT6dCNc%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "892046675483451423",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2021-09-27T13:55:00.861+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "891814115411124244",
+        "channelId": "891809147157356594",
+        "guildId": null
+      }
+    },
+    {
+      "id": "892046698279473242",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2021-09-27T13:55:06.296+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "891814181408497725",
+        "channelId": "891809147157356594",
+        "guildId": null
+      }
+    },
+    {
+      "id": "892046724271595600",
+      "type": "Default",
+      "timestamp": "2021-09-27T13:55:12.493+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey folks, I'm going to post some information in here.  I'm happy to go over any of this stuff on Friday as well, but this is stuff to know before playing.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "892047084625215488",
+      "type": "Default",
+      "timestamp": "2021-09-27T13:56:38.408+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Willpower*  = Resolve+Composure. 1 Willpower point per turn can be spent to add 3 dice to any pool or to add 2 to Stamina, Resolve, Composure or Defense for resistance.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "892047214749294602",
+      "type": "Default",
+      "timestamp": "2021-09-27T13:57:09.432+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Your character may regain one Willpower point per\nscene if her actions play out in a manner appropriate to\nher Vice. Your character may regain all spent\nWillpower if her actions play out in a manner appropriate\nto her Virtue.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "892047394756239401",
+      "type": "Default",
+      "timestamp": "2021-09-27T13:57:52.349+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Your character may regain a point of Willpower\nafter she has had a full night's rest.  If your character achieves a significant goal or performs\na particularly impressive act that affirms her sense\nof confidence, the Storyteller may choose to award a Willpower\npoint.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "892064482686296114",
+      "type": "Default",
+      "timestamp": "2021-09-27T15:05:46.429+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Health* = STA+Size Health points are crossed off from left to right.  Three types of damage, from least to most severe:  Bashing, marked with a \"/\", lethal, marked with a \"X\", and aggravated, marked with a star.  Bashing damage comes from fists, baseball bats, etc. Lethal from knives, swords, guns, etc.  Aggravated from magical sources (& sunlight & fire for vampires).",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "892064790367834203",
+      "type": "Default",
+      "timestamp": "2021-09-27T15:06:59.786+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When the health bar is full, boxes are upgraded from left to right with the next highest form of damage.  Vampires fall into \"torpor\" when the rightmost box is full with lethal damage.  They die when it is full of aggravated damage.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "892065147206643762",
+      "type": "Default",
+      "timestamp": "2021-09-27T15:08:24.863+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Vampires only take bashing damage from firearms (they have no vital organs)  \n\nMortals and werewolves heal over time.  Vampire can *only* heal by spending Vitae.  1 point for 2 bashing or 1 lethal.  Healing aggravated damage is more time consuming and complicated.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "892071816254853150",
+      "type": "Default",
+      "timestamp": "2021-09-27T15:34:54.888+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Vitae* Each vampire starts with D10+ blood potency of vitae (but no more than they can hold, based on blood potency).  Each must spend a Vitae to wake up each evening.  Otherwise, Vitae can be spent for the following purposes:",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "892071818058407946",
+      "type": "Default",
+      "timestamp": "2021-09-27T15:34:55.318+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GG @OnlyaJedi, you just advanced to level 2!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "294416680799567872",
+          "name": "OnlyaJedi",
+          "discriminator": "3499",
+          "nickname": "OnlyaJedi",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "892072557895893063",
+      "type": "Default",
+      "timestamp": "2021-09-27T15:37:51.709+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Counterfeiting Life* Vampires may spend 1 Vitae per scene to look human, eat like a human, etc.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "892072700070199316",
+      "type": "Default",
+      "timestamp": "2021-09-27T15:38:25.606+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Physical Augmentation* A Vampire may spend 1 Vitae to add 2 dice to any physical dice pool for 1 turn.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "892075574430937169",
+      "type": "Default",
+      "timestamp": "2021-09-27T15:49:50.907+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Healing* Described Earlier\n*Discipline Use*  Some disciplines require that Vitae be spent",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "892076188305072138",
+      "type": "Default",
+      "timestamp": "2021-09-27T15:52:17.266+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Acquiring Vitae*  Vampires must feed.  Even if they do none of the above actions, they still are required to sleep all day and wake each night, spending a Vitae to do so.  Eventually, they will need to feed.  Feeding on humans gives the vampire the humans number of health dots in Vitae.  Feeding on animals give 1/3 that number.  Humans will typically resist, until they are bitten.  Much like some insects have numbing agent in their saliva, the vampire's bite is very overwhelming and most humans are not able to resist it once bitten.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "892076371134795876",
+      "type": "Default",
+      "timestamp": "2021-09-27T15:53:00.856+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A very powerful human would require great expenditure of willpower to overcome it.  Supernatural beings such as werewolves and mages are immune to such effects and will fight back with everything they have, of course.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "894264554152939600",
+      "type": "Default",
+      "timestamp": "2021-10-03T16:48:04.342+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Art references:  https://www.artstation.com/artwork/gQVDQ, https://www.artstation.com/artwork/26wAY, https://www.artstation.com/artwork/Z5bKOR, https://www.artstation.com/artwork/XByB5Y, https://www.artstation.com/artwork/36awm, https://www.artstation.com/artwork/R3d9by, https://www.artstation.com/artwork/WK8YDG",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "894267124896378890",
+      "type": "Default",
+      "timestamp": "2021-10-03T16:58:17.255+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "More art references:  https://www.artstation.com/artwork/LNZnw, https://www.artstation.com/artwork/D5RxD0, https://www.artstation.com/artwork/AqLxdq, https://www.artstation.com/artwork/V8AEN",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "894268383279853608",
+      "type": "Default",
+      "timestamp": "2021-10-03T17:03:17.277+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "One last one: https://www.google.com/maps/place/John+Dewar+%26+Son+Ltd/@57.53941,-3.905243,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNLlrwOgErwUGO9Xrik2Fh70FzHzCOAV5UpReYI!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNLlrwOgErwUGO9Xrik2Fh70FzHzCOAV5UpReYI%3Dw203-h114-k-no!7i4608!8i2592!4m9!1m2!2m1!1sdistilleries+near+Inverness,+UK!3m5!1s0x488f7e352eea3781:0xf9741df30bacc2d!8m2!3d57.53941!4d-3.905243!15sCh9kaXN0aWxsZXJpZXMgbmVhciBJbnZlcm5lc3MsIFVLkgEKZGlzdGlsbGVyeQ",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899640473143107605",
+      "type": "Default",
+      "timestamp": "2021-10-18T12:50:03.309+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone When your team was expanding their Haven and broke through into the abandoned subway station, they were surprised.  *Inverness has no subway.*  They found two tunnels, one mostly collapsed and one with a partial train in it.  General décor in the long-abandoned station indicates roughly the 1920's and signs in the lobby mention \"Inverness Central Loop Underground\" and \"Raigmore Station.\"  Your Gang's resident investigator and general sleuth Moonshine filed a Freedom of Information Act request with the local Transportation Authority and was given the attached map.  He also learned that, after the success of the London Underground and the Glasgow Ring, Inverness decided to start building their own subway in the 1920's.  They got three stations built and some display trains set up before the Great Depression brought the project to a shuddering halt.  The stations have been boarded up and ignored since.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899640552520290394",
+      "type": "Default",
+      "timestamp": "2021-10-18T12:50:22.234+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "899640552356708362",
+          "url": "https://cdn.discordapp.com/attachments/891809147157356594/899640552356708362/Raigmore_Station_Map.png",
+          "fileName": "Raigmore_Station_Map.png",
+          "fileSizeBytes": 259849
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899640651354894346",
+      "type": "Default",
+      "timestamp": "2021-10-18T12:50:45.798+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The red circle indicates where your basement breaks through.  Blue lines indicate collapsed sections.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "909794833810468955",
+      "type": "Default",
+      "timestamp": "2021-11-15T13:19:51.551+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone I intend to adjust everyones' Humanity.  We all started at 7, but as roleplay has gone on, I believe that each character is unique and has presented as having unique Humanity.  I have avoided Humanity rolls to this point because I've been working on deciding how I wanted to handle this.  I'm going to list below where I believe each character should be on the Humanity chart (as of the beginning of the game) and what that represents as described in the book.  I'll also give a broad overview of how Humanity generally impacts gameplay.\n\nCharacters with high humanity can mingle and interact with humans well.  They can act as liasons, etc.  Characters with 8-10 do this effortlessly, characters with 7 do it with some struggle.  As a tradeoff, they are more subject to degeneration rolls when they do \"bad things.\" \n\nCharacters with low humanity rolls are not as subjected to degeneration rolls - they're not as bothered by the things they have to do to *survive*. As a tradeoff, they look generally less than human and can't pass as human without spending a Vitae to do so.\n\nI believe Becca should be an 8:  Kindred with Humanity scores this high can seem “more\nhuman than human.” Neonates might recoil from their own monstrosity and take up ethical codes stricter than any they followed in life. They usually try to feed only from animals or seek other alternatives to victimizing mortals, and feed as little as possible in any case. They don’t have to act preachy or passively accept everything that unlife and their fellow Kindred throw at them, but they must work hard to avoid harming anyone else and to atone for any sin they commit. Interaction with mortals often matters a great deal to such Kindred, as interacting with the living helps them remember what life was like. They can also pass for mortal almost without effort.\n\nI believe Zahir should be a 6 or 7:",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "909794897333211156",
+      "type": "Default",
+      "timestamp": "2021-11-15T13:20:06.696+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "At this Humanity, Kindred have ethical standards like those of most mortals. They feel that killing, theft and cruelty are wrong, but they don’t go all weepy if they shade the truth a little, hit someone who tried to hit them first, or take opportunities for a little fun that don’t really hurt anyone else. Such a character has a Vice that she probably indulges in small ways\nwith only minimal regrets. These Kindred can still easily pass for mortal, and they probably have mortal acquaintances.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "909795037154525194",
+      "type": "Default",
+      "timestamp": "2021-11-15T13:20:40.032+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I believe Moonshine and Max should be a 5:  It’s a tough world, and Kindred with this Humanity score\naccept that they need some toughness as well. Such characters can recognize and reject deliberate atrocities… but crap happens. If some happens to them, they throw it right back. Why should they act better than anyone else? At this Humanity, a Kindred starts to show the eerie unpleasantness that puts mortals on their guard. A skilled dissembler can still persuade mortals to ignore their instincts,\nthough.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "915661450670923797",
+      "type": "Default",
+      "timestamp": "2021-12-01T17:51:42.007+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.flickr.com/photos/p_revagar/44928193315/in/photostream/",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Osterley Park and House, National Trust (DSCF2342)",
+          "url": "https://www.flickr.com/photos/p_revagar/44928193315/in/photostream/",
+          "timestamp": null,
+          "description": "Explore Piyushgiri Revagar's photos on Flickr. Piyushgiri Revagar has uploaded 642 photos to Flickr.",
+          "author": {
+            "name": "Piyushgiri Revagar",
+            "url": "https://www.flickr.com/photos/p_revagar/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/gGmQAixFquSiNa8iE0DYMfXui5OA-qfOiXbsYuQRtIE/https/live.staticflickr.com/4842/44928193315_f6583aa70c_b.jpg",
+            "width": 1024,
+            "height": 428
+          },
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916148934026625094",
+      "type": "Default",
+      "timestamp": "2021-12-03T02:08:47.096+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone In case you want to take a look at the train you'll be riding on, here's the \"Caledonian Sleeper\" https://www.sleeper.scot/",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Caledonian Sleeper Train | Buy tickets online | Train travel across...",
+          "url": "https://www.sleeper.scot/",
+          "timestamp": null,
+          "description": "With trains from London to Edinburgh & across Scotland, the Caledonian Sleeper trains allow you to travel Scotland in comfort. Buy your train tickets today.",
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916154642436599868",
+      "type": "Reply",
+      "timestamp": "2021-12-03T02:31:28.087+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Niceee",
+      "author": {
+        "id": "895864458981826641",
+        "name": "atomzz240",
+        "discriminator": "9813",
+        "nickname": "atomzz240",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/895864458981826641/7f798a6274e9c7dd7a5b6f00c6a6258b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "294416680799567872",
+          "name": "OnlyaJedi",
+          "discriminator": "3499",
+          "nickname": "OnlyaJedi",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "916148934026625094",
+        "channelId": "891809147157356594",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "942535220035473478",
+      "type": "Default",
+      "timestamp": "2022-02-13T21:38:27.914+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone I have a new resource for helping to develop your roleplay.  We've had a lot of character development recently, and I've also noticed that some people struggle more than others to understand what their character does or would do or feels in a particular situation.  I'm not going to require anyone to do this - but I highly suggest that anyone who feels up to it take 5-10 questions from each category (there are 365 questions total - that's a lot!) and use them to help better understand your character",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "942535369293959218",
+      "type": "Default",
+      "timestamp": "2022-02-13T21:39:03.5+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone If you feel like you trust your other players by now, feel free to post your results in #character-summary!",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "942535369059106826",
+          "url": "https://cdn.discordapp.com/attachments/891809147157356594/942535369059106826/Character_Questionnaire.pdf",
+          "fileName": "Character_Questionnaire.pdf",
+          "fileSizeBytes": 542626
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "946387463457353770",
+      "type": "Default",
+      "timestamp": "2022-02-24T12:45:54.317+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Cyberpunk reference pictures https://drive.google.com/drive/folders/1pvx_uv6x-JDRomD76_cgT68k4X9XElHG?usp=sharing",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 33
+}

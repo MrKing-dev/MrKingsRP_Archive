@@ -1,0 +1,1532 @@
+{
+  "guild": {
+    "id": "891103869097082901",
+    "name": "Mr.King's RP Games",
+    "iconUrl": "https://cdn.discordapp.com/icons/891103869097082901/a463d7b6979660de1a49b4eb3496507b.png"
+  },
+  "channel": {
+    "id": "891103869554278410",
+    "type": "GuildTextChat",
+    "categoryId": "891103869097082902",
+    "category": "Important",
+    "name": "welcome",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "891386122054299648",
+      "type": "GuildMemberJoin",
+      "timestamp": "2021-09-25T18:10:12.651+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "891386947992449125",
+      "type": "GuildMemberJoin",
+      "timestamp": "2021-09-25T18:13:29.57+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "204255221017214977",
+        "name": "YAGPDB.xyz",
+        "discriminator": "8760",
+        "nickname": "YAGPDB.xyz",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/204255221017214977/3b376fff30bfb0be0fac67003e0f8dcf.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "891387234186592266",
+      "type": "GuildMemberJoin",
+      "timestamp": "2021-09-25T18:14:37.804+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "324631108731928587",
+        "name": "Simple Poll",
+        "discriminator": "9879",
+        "nickname": "Simple Poll",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/324631108731928587/7dbf4eec7a6c1f7f2d3969a5c7008bb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "891387873801175080",
+      "type": "GuildMemberJoin",
+      "timestamp": "2021-09-25T18:17:10.3+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "466378653216014359",
+        "name": "PluralKit",
+        "discriminator": "4020",
+        "nickname": "PluralKit",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/466378653216014359/39a9860f40dbf750702b0908ed4b8ea7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "891394022667604008",
+      "type": "GuildMemberJoin",
+      "timestamp": "2021-09-25T18:41:36.304+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "235148962103951360",
+        "name": "Carl-bot",
+        "discriminator": "1536",
+        "nickname": "Carl-bot",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/235148962103951360/ed3dac3b6e7a851df781632a4295fcb9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "891406242487099482",
+      "type": "GuildMemberJoin",
+      "timestamp": "2021-09-25T19:30:09.736+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "891406246924681216",
+      "type": "Default",
+      "timestamp": "2021-09-25T19:30:10.794+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @ironavenger344, welcome to **World Of Darkness Server**!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "891406246702350386",
+          "url": "https://cdn.discordapp.com/attachments/891103869554278410/891406246702350386/card.png",
+          "fileName": "card.png",
+          "fileSizeBytes": 104309
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "494980436532133891",
+          "name": "ironavenger344",
+          "discriminator": "5036",
+          "nickname": "Pulse [Allison]",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "891412244032794624",
+      "type": "GuildMemberJoin",
+      "timestamp": "2021-09-25T19:54:00.616+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "891412251322515526",
+      "type": "Default",
+      "timestamp": "2021-09-25T19:54:02.354+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @Deleted User, welcome to **World Of Darkness Server**!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "891412251146330142",
+          "url": "https://cdn.discordapp.com/attachments/891103869554278410/891412251146330142/card.png",
+          "fileName": "card.png",
+          "fileSizeBytes": 64097
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "891429283514429470",
+      "type": "GuildMemberJoin",
+      "timestamp": "2021-09-25T21:01:43.145+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "891429287687766056",
+      "type": "Default",
+      "timestamp": "2021-09-25T21:01:44.14+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @OnlyaJedi, welcome to **World Of Darkness Server**!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "891429287322873866",
+          "url": "https://cdn.discordapp.com/attachments/891103869554278410/891429287322873866/card.png",
+          "fileName": "card.png",
+          "fileSizeBytes": 97112
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "294416680799567872",
+          "name": "OnlyaJedi",
+          "discriminator": "3499",
+          "nickname": "OnlyaJedi",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "892138160841183282",
+      "type": "Reply",
+      "timestamp": "2021-09-27T19:58:32.67+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "751606379340365864",
+          "name": "Wave",
+          "format": "Lottie",
+          "sourceUrl": "https://discord.com/stickers/751606379340365864.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "294416680799567872",
+          "name": "OnlyaJedi",
+          "discriminator": "3499",
+          "nickname": "OnlyaJedi",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "891429283514429470",
+        "channelId": "891103869554278410",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "892138192814358679",
+      "type": "Reply",
+      "timestamp": "2021-09-27T19:58:40.293+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "749054660769218631",
+          "name": "Wave",
+          "format": "Lottie",
+          "sourceUrl": "https://discord.com/stickers/749054660769218631.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "456226577798135808",
+          "name": "Deleted User",
+          "discriminator": "0000",
+          "nickname": "Deleted User",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "891412244032794624",
+        "channelId": "891103869554278410",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "892138257029169262",
+      "type": "Reply",
+      "timestamp": "2021-09-27T19:58:55.603+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "749054660769218631",
+          "name": "Wave",
+          "format": "Lottie",
+          "sourceUrl": "https://discord.com/stickers/749054660769218631.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "494980436532133891",
+          "name": "ironavenger344",
+          "discriminator": "5036",
+          "nickname": "Pulse [Allison]",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "891406242487099482",
+        "channelId": "891103869554278410",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "892138290768138272",
+      "type": "Reply",
+      "timestamp": "2021-09-27T19:59:03.647+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "819128604311027752",
+          "name": "Scream",
+          "format": "Lottie",
+          "sourceUrl": "https://discord.com/stickers/819128604311027752.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "159985870458322944",
+          "name": "MEE6",
+          "discriminator": "4876",
+          "nickname": "MEE6",
+          "isBot": true
+        }
+      ],
+      "reference": {
+        "messageId": "891386122054299648",
+        "channelId": "891103869554278410",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "892138311928406076",
+      "type": "Reply",
+      "timestamp": "2021-09-27T19:59:08.692+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "816087792291282944",
+          "name": "Sup",
+          "format": "Lottie",
+          "sourceUrl": "https://discord.com/stickers/816087792291282944.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "204255221017214977",
+          "name": "YAGPDB.xyz",
+          "discriminator": "8760",
+          "nickname": "YAGPDB.xyz",
+          "isBot": true
+        }
+      ],
+      "reference": {
+        "messageId": "891386947992449125",
+        "channelId": "891103869554278410",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "892143661897355304",
+      "type": "GuildMemberJoin",
+      "timestamp": "2021-09-27T20:20:24.224+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "808161585876697108",
+        "name": "Dice Witch",
+        "discriminator": "2564",
+        "nickname": "Dice Witch",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/808161585876697108/dff3645d637d6657e27e32de1fbe0eca.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "892143665345085440",
+      "type": "Default",
+      "timestamp": "2021-09-27T20:20:25.046+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @Dice Witch, welcome to **World Of Darkness Server**!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "892143665093414922",
+          "url": "https://cdn.discordapp.com/attachments/891103869554278410/892143665093414922/card.png",
+          "fileName": "card.png",
+          "fileSizeBytes": 106465
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "808161585876697108",
+          "name": "Dice Witch",
+          "discriminator": "2564",
+          "nickname": "Dice Witch",
+          "isBot": true
+        }
+      ]
+    },
+    {
+      "id": "892401008003653713",
+      "type": "Reply",
+      "timestamp": "2021-09-28T13:23:00.317+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "816087792291282944",
+          "name": "Sup",
+          "format": "Lottie",
+          "sourceUrl": "https://discord.com/stickers/816087792291282944.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "808161585876697108",
+          "name": "Dice Witch",
+          "discriminator": "2564",
+          "nickname": "Dice Witch",
+          "isBot": true
+        }
+      ],
+      "reference": {
+        "messageId": "892143661897355304",
+        "channelId": "891103869554278410",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "896094630838427689",
+      "type": "GuildMemberJoin",
+      "timestamp": "2021-10-08T18:00:08.625+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "895864458981826641",
+        "name": "atomzz240",
+        "discriminator": "9813",
+        "nickname": "atomzz240",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/895864458981826641/7f798a6274e9c7dd7a5b6f00c6a6258b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "896094633103351828",
+      "type": "Default",
+      "timestamp": "2021-10-08T18:00:09.165+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @atomzz240, welcome to **World Of Darkness Server**!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "896094632952340500",
+          "url": "https://cdn.discordapp.com/attachments/891103869554278410/896094632952340500/card.png",
+          "fileName": "card.png",
+          "fileSizeBytes": 39080
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "895864458981826641",
+          "name": "atomzz240",
+          "discriminator": "9813",
+          "nickname": "atomzz240",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "896099707762376754",
+      "type": "Reply",
+      "timestamp": "2021-10-08T18:20:19.058+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "819128604311027752",
+          "name": "Scream",
+          "format": "Lottie",
+          "sourceUrl": "https://discord.com/stickers/819128604311027752.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "895864458981826641",
+          "name": "atomzz240",
+          "discriminator": "9813",
+          "nickname": "atomzz240",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "896094630838427689",
+        "channelId": "891103869554278410",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "896104531191017502",
+      "type": "GuildMemberJoin",
+      "timestamp": "2021-10-08T18:39:29.053+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "894652412705534063",
+        "name": "dice-breaker",
+        "discriminator": "8235",
+        "nickname": "dice-breaker",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/894652412705534063/a140fa1ae84b3c81cb0ad05774d65622.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "896104533304954900",
+      "type": "Default",
+      "timestamp": "2021-10-08T18:39:29.557+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @dice-breaker, welcome to **World Of Darkness Server**!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "896104533145579550",
+          "url": "https://cdn.discordapp.com/attachments/891103869554278410/896104533145579550/card.png",
+          "fileName": "card.png",
+          "fileSizeBytes": 36768
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "894652412705534063",
+          "name": "dice-breaker",
+          "discriminator": "8235",
+          "nickname": "dice-breaker",
+          "isBot": true
+        }
+      ]
+    },
+    {
+      "id": "896109189519269939",
+      "type": "Reply",
+      "timestamp": "2021-10-08T18:57:59.685+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "781291131828699156",
+          "name": "Wave",
+          "format": "PngAnimated",
+          "sourceUrl": "https://discord.com/stickers/781291131828699156.png"
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "894652412705534063",
+          "name": "dice-breaker",
+          "discriminator": "8235",
+          "nickname": "dice-breaker",
+          "isBot": true
+        }
+      ],
+      "reference": {
+        "messageId": "896104531191017502",
+        "channelId": "891103869554278410",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "907356118974603334",
+      "type": "GuildMemberJoin",
+      "timestamp": "2021-11-08T19:49:16.625+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "907356124498505738",
+      "type": "Default",
+      "timestamp": "2021-11-08T19:49:17.942+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @₦Ʉ₥฿ɆⱤ ₣łVɆ, welcome to **World Of Darkness Server**!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "907356124217503784",
+          "url": "https://cdn.discordapp.com/attachments/891103869554278410/907356124217503784/card.png",
+          "fileName": "card.png",
+          "fileSizeBytes": 105819
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "346721923020881921",
+          "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+          "discriminator": "2705",
+          "nickname": "Blu (The Prophet)",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "907390761853653003",
+      "type": "Reply",
+      "timestamp": "2021-11-08T22:06:56.131+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "751606379340365864",
+          "name": "Wave",
+          "format": "Lottie",
+          "sourceUrl": "https://discord.com/stickers/751606379340365864.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "346721923020881921",
+          "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+          "discriminator": "2705",
+          "nickname": "Blu (The Prophet)",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "907356118974603334",
+        "channelId": "891103869554278410",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "914680641394720818",
+      "type": "GuildMemberJoin",
+      "timestamp": "2021-11-29T00:54:18.853+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "888547833110741033",
+        "name": "ZENITHANMars058",
+        "discriminator": "3337",
+        "nickname": "Lexus [Chris]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/888547833110741033/e7c6e77d3a89ed1a48358d069319d95e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "914680644569808897",
+      "type": "Default",
+      "timestamp": "2021-11-29T00:54:19.61+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @ZENITHANMars058, welcome to **World Of Darkness Server**!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "914680644662079488",
+          "url": "https://cdn.discordapp.com/attachments/891103869554278410/914680644662079488/card.png",
+          "fileName": "card.png",
+          "fileSizeBytes": 67872
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "888547833110741033",
+          "name": "ZENITHANMars058",
+          "discriminator": "3337",
+          "nickname": "Lexus [Chris]",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "914934929031323668",
+      "type": "Reply",
+      "timestamp": "2021-11-29T17:44:45.75+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "781291131828699156",
+          "name": "Wave",
+          "format": "PngAnimated",
+          "sourceUrl": "https://discord.com/stickers/781291131828699156.png"
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "888547833110741033",
+          "name": "ZENITHANMars058",
+          "discriminator": "3337",
+          "nickname": "Lexus [Chris]",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "914680641394720818",
+        "channelId": "891103869554278410",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "927651504654000128",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-01-03T19:55:53.641+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "927650872421412885",
+        "name": "NotAtomzz",
+        "discriminator": "4771",
+        "nickname": "NotAtomzz",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/927650872421412885/3bc8fe65d9e8a5362a076582db84b77d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927651506616930365",
+      "type": "Default",
+      "timestamp": "2022-01-03T19:55:54.109+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @NotAtomzz, welcome to **World Of Darkness Server**!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "927651506302373929",
+          "url": "https://cdn.discordapp.com/attachments/891103869554278410/927651506302373929/card.png",
+          "fileName": "card.png",
+          "fileSizeBytes": 34093
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "927650872421412885",
+          "name": "NotAtomzz",
+          "discriminator": "4771",
+          "nickname": "NotAtomzz",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "927651532843925604",
+      "type": "Reply",
+      "timestamp": "2022-01-03T19:56:00.362+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "751606379340365864",
+          "name": "Wave",
+          "format": "Lottie",
+          "sourceUrl": "https://discord.com/stickers/751606379340365864.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "927650872421412885",
+          "name": "NotAtomzz",
+          "discriminator": "4771",
+          "nickname": "NotAtomzz",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "927651504654000128",
+        "channelId": "891103869554278410",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "927751158125178940",
+      "type": "Reply",
+      "timestamp": "2022-01-04T02:31:52.88+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "781291131828699156",
+          "name": "Wave",
+          "format": "PngAnimated",
+          "sourceUrl": "https://discord.com/stickers/781291131828699156.png"
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "927650872421412885",
+          "name": "NotAtomzz",
+          "discriminator": "4771",
+          "nickname": "NotAtomzz",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "927651504654000128",
+        "channelId": "891103869554278410",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "936735364029235290",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-01-28T21:31:54.486+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "458245748195328001",
+        "name": "LizardBoi",
+        "discriminator": "3837",
+        "nickname": "Antoni [Gabe]",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458245748195328001/ca5003b6ec77d2c1a464dc3430b535e1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "936735367661514793",
+      "type": "Default",
+      "timestamp": "2022-01-28T21:31:55.352+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @LizardBoi, welcome to **World Of Darkness Server**!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "936735367774757016",
+          "url": "https://cdn.discordapp.com/attachments/891103869554278410/936735367774757016/card.png",
+          "fileName": "card.png",
+          "fileSizeBytes": 97065
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "458245748195328001",
+          "name": "LizardBoi",
+          "discriminator": "3837",
+          "nickname": "Antoni [Gabe]",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "946737762474803260",
+      "type": "Reply",
+      "timestamp": "2022-02-25T11:57:52.111+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "749054660769218631",
+          "name": "Wave",
+          "format": "Lottie",
+          "sourceUrl": "https://discord.com/stickers/749054660769218631.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "458245748195328001",
+          "name": "LizardBoi",
+          "discriminator": "3837",
+          "nickname": "Antoni [Gabe]",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "936735364029235290",
+        "channelId": "891103869554278410",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "946742836173352991",
+      "type": "Reply",
+      "timestamp": "2022-02-25T12:18:01.775+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "754108890559283200",
+          "name": "Wave",
+          "format": "Lottie",
+          "sourceUrl": "https://discord.com/stickers/754108890559283200.json"
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "458245748195328001",
+          "name": "LizardBoi",
+          "discriminator": "3837",
+          "nickname": "Antoni [Gabe]",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "936735364029235290",
+        "channelId": "891103869554278410",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "953074291438669834",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-03-14T23:36:58.343+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "953072357000486922",
+        "name": "NotAtomzz",
+        "discriminator": "1394",
+        "nickname": "finn [Jeremiah]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/953072357000486922/c8a77fc5c35bac4b2dbf1b83e083781c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "953074294953476106",
+      "type": "Default",
+      "timestamp": "2022-03-14T23:36:59.181+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @NotAtomzz, welcome to **Mr.King's RP Games**!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "953074294722793532",
+          "url": "https://cdn.discordapp.com/attachments/891103869554278410/953074294722793532/card.png",
+          "fileName": "card.png",
+          "fileSizeBytes": 89443
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "953072357000486922",
+          "name": "NotAtomzz",
+          "discriminator": "1394",
+          "nickname": "finn [Jeremiah]",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "954078665833074779",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-03-17T18:07:59.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "954078668802633841",
+      "type": "Default",
+      "timestamp": "2022-03-17T18:08:00.567+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @OnlyaJedi, welcome to **Mr.King's RP Games**!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "954078668924256306",
+          "url": "https://cdn.discordapp.com/attachments/891103869554278410/954078668924256306/card.png",
+          "fileName": "card.png",
+          "fileSizeBytes": 96933
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "294416680799567872",
+          "name": "OnlyaJedi",
+          "discriminator": "3499",
+          "nickname": "OnlyaJedi",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "979840929420685372",
+      "type": "GuildMemberJoin",
+      "timestamp": "2022-05-27T20:18:02.138+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "979839163656462376",
+        "name": "Archive",
+        "discriminator": "3406",
+        "nickname": "Archive",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "979840931970822254",
+      "type": "Default",
+      "timestamp": "2022-05-27T20:18:02.746+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @Archive, welcome to **Mr.King's RP Games**!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "979840931647852565",
+          "url": "https://cdn.discordapp.com/attachments/891103869554278410/979840931647852565/card.png",
+          "fileName": "card.png",
+          "fileSizeBytes": 36906
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "979839163656462376",
+          "name": "Archive",
+          "discriminator": "3406",
+          "nickname": "Archive",
+          "isBot": true
+        }
+      ]
+    }
+  ],
+  "messageCount": 45
+}

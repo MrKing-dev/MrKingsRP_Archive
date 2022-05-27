@@ -1,0 +1,936 @@
+{
+  "guild": {
+    "id": "891103869097082901",
+    "name": "Mr.King's RP Games",
+    "iconUrl": "https://cdn.discordapp.com/icons/891103869097082901/a463d7b6979660de1a49b4eb3496507b.png"
+  },
+  "channel": {
+    "id": "946777280154316810",
+    "type": "GuildTextChat",
+    "categoryId": "946736290945196072",
+    "category": "Cyberpunk-???",
+    "name": "cyber_resources",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "946777562242248814",
+      "type": "Default",
+      "timestamp": "2022-02-25T14:36:01.115+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "End of session, three items that need to be dealt with (keep me honest!):\n\n*Give improvement points\n*Pay the team for the mission\n*Have uninjured members (or mostly uninjured members) roll for \"hustle pay\" between jobs",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "946777786759122964",
+      "type": "Default",
+      "timestamp": "2022-02-25T14:36:54.644+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Between sessions, via discord:\n\n*Spend improvement points (not easy to bank these, because cyberpunk doesn't let you \"skip\" levels\n*Spend money",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "946783165933031434",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2022-02-25T14:58:17.139+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "946777562242248814",
+        "channelId": "946777280154316810",
+        "guildId": null
+      }
+    },
+    {
+      "id": "946783191283429427",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2022-02-25T14:58:23.183+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "946777786759122964",
+        "channelId": "946777280154316810",
+        "guildId": null
+      }
+    },
+    {
+      "id": "947488616974807060",
+      "type": "Default",
+      "timestamp": "2022-02-27T13:41:29.774+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Reference pictures: https://drive.google.com/drive/folders/1pvx_uv6x-JDRomD76_cgT68k4X9XElHG?usp=sharing",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "948603797314342984",
+      "type": "Default",
+      "timestamp": "2022-03-02T15:32:49.486+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cyberpunk Core Rulebook: https://drive.google.com/file/d/1Xjm9j22EKZsKQWbXhTElAwScLvGc1jHD/view?usp=sharing",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "RTG-CPR-CyberpunkRedCore-Digitalv1.25.pdf",
+          "url": "https://drive.google.com/file/d/1Xjm9j22EKZsKQWbXhTElAwScLvGc1jHD/view?usp=sharing",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/HbfOhjaC6XvMg2_e3Q7E7x4pU-_Ccb3BNR4jOAfzo90/https/lh3.googleusercontent.com/e42q5lpM70oAYgTAn5Jlrbrk0rcFcq5YhN6zccViDBT3vI-7LACZwUA5847SiFz1p6o%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "948603877790482512",
+      "type": "Default",
+      "timestamp": "2022-03-02T15:33:08.673+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cyberpunk Printable Character Sheet: https://drive.google.com/file/d/1XCo7a0va3MZF5hbqduiNVDrOzYCHAO9U/view?usp=sharing",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "RTG-CPR-CharacterSheet.pdf",
+          "url": "https://drive.google.com/file/d/1XCo7a0va3MZF5hbqduiNVDrOzYCHAO9U/view?usp=sharing",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/pPdOz5-PkDLweyZZwMQCePO2-kXsU0JdcfItmBOc7ig/https/lh5.googleusercontent.com/oH8w7Rm1Sl50j1cVzoZODR1cKssxGyfVoqcfLjNbQ39k4gP4v1jNBYqGpe22A15QVt0%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "948603940252041286",
+      "type": "Default",
+      "timestamp": "2022-03-02T15:33:23.565+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cyberpunk Fillable Character Sheet: https://drive.google.com/file/d/1XcempY5xIy3IG16TQqk3uxYdY6ig2F2l/view?usp=sharing",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "RTG-CPR-CharacterSheet-Fillable.pdf",
+          "url": "https://drive.google.com/file/d/1XcempY5xIy3IG16TQqk3uxYdY6ig2F2l/view?usp=sharing",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/AL15XR_GO9rrryBV6PS6xk0-pZxXuBHm8ttc9UNw3xM/https/lh4.googleusercontent.com/gG1mfS8qIL_l7Uv5QgyQem0QA93mKtasI5I_ya0StSiQ7zbuvx4DBiacGvNFpUNqYbo%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "950142211859828777",
+      "type": "Default",
+      "timestamp": "2022-03-06T21:25:56.096+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone  I'm going to post this here, because I can't handle #general  right now. I haven't discussed Housing with anyone yet, because it isn't something you need to worry about yet. I'll post the relevant info below",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "950142225550016645",
+      "type": "Default",
+      "timestamp": "2022-03-06T21:25:59.36+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "950142225705222184",
+          "url": "https://cdn.discordapp.com/attachments/946777280154316810/950142225705222184/Screenshot_20220306-162439.png",
+          "fileName": "Screenshot_20220306-162439.png",
+          "fileSizeBytes": 483157
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "951140567079850055",
+      "type": "Default",
+      "timestamp": "2022-03-09T15:33:02.529+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Detailed information on Cube Hotels and Cargo Containers for starting characters.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "951140566496870450",
+          "url": "https://cdn.discordapp.com/attachments/946777280154316810/951140566496870450/RTG-CPR-CargoContainersandCubeHotels.pdf",
+          "fileName": "RTG-CPR-CargoContainersandCubeHotels.pdf",
+          "fileSizeBytes": 4498176
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "951259964113047592",
+      "type": "Default",
+      "timestamp": "2022-03-09T23:27:29+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Welcome, edge runners! Time for me to go over the deets. First, what's an edgerunner? That's you! Most people in Night City are one of four things:\u00A0\n\n\n*Gang bangers (usually called gangers)\n\n*Corpo wage slaves (a sweet life, if you don't mind backstabbing and being backstabbed every day. Oh, and never having a say in what you do or where you go)\n\n*Scavvers (the lowest of the low. Unilaterally hated, these are the street scum who scavenge for a living, including killing people to strip their cyberware)\n\n*Edgerunners (people who live on the edge, skating just south of the law. These are the mercenaries, hackers, getaway drivers, techs installing \"unauthorized\" upgrades, and meds running back alley unlicensed clinics).\u00A0\n\n\nLet's introduce the team (this week's episode will actually be what gets everyone working together). Let me know if any of this doesn't work for you.\u00A0\n\n\nLexus: born and raised in the San Marginados nomad clan. She was working on engines when she was 4 and was taught to shoot at 6. In the last year, she's been assigned to keep an eye on things in Night City, to make sure the clan's shipping and supply trade go smoothly. Lexus makes a living edgerunning in NC but she knows her clan will always back her up. Recently, she's been Finn's go-to driver.\u00A0\n\n\nCase: used to moonlight as a security tech for Petrochem (megacorp that produces most of the worlds fuel). He got fired when he was found hacking into their customer database. He's since been picking himself up by stealing data and selling it (or setting up ransomware viruses). He's Finn's preferred netrunner. At the moment, he's escaping from jail. Again.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "951260038020890684",
+      "type": "Default",
+      "timestamp": "2022-03-09T23:27:46.621+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pulse: used to work with Trauma Team (another corp that handles the NC equivalent of ambulance service) before conflicts of interest led her to leave. She's been spending the last year working on saving enough eurodollars to set up her own back alley clinic above the bar. Recently, she contracted with Finn to get the last of her supplies. \n\nFinn: worked for years as a runner/ contact for another Fixer. He was contacted in the last two years by the Tyger Claws (local gang descended from the Yakuza) to manage their new bar. He runs fixer services out of the bar - named \"Jim's Donuts\" because that's what the building used to be and the neon was already there. Also, the name is familiar to people in the area. \n\nAntoni: tinkerer and weaponsmith. He's worked with the Tyger Claws for years, because he feels like they're the gang with the most integrity. Finn uses him any time he needs technical skills or subtlety. They've known each other as acquaintances for a couple years. \n\nLouz: up and coming singer and performance artist with a tight following on the CitiNet. In the last year he was brought in by Finn a few times as entertainment. Eventually, he and Finn decided to set up a dance club space in Jim's. They keep it on the DL, because their Tyger Claws bosses don't know about it. \n\nFridays episode will see Case bring a job to Finn that's too big for him to do alone. It fits right in with Pulse's request (which is already paid for, and therefore urgent). Finn puts together the best team he's set up yet, and goes along to make certain things work out. If everything goes according to plan, everyone is in for a decent payday!",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "951260649760104458",
+      "type": "Default",
+      "timestamp": "2022-03-09T23:30:12.471+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC4F\uD83D\uDC4F",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "951261717764141056",
+      "type": "Default",
+      "timestamp": "2022-03-09T23:34:27.103+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Case \"I fought the law\"",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "951261802895908884",
+      "type": "Default",
+      "timestamp": "2022-03-09T23:34:47.4+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Finn: Again?\nCase: Hehehehe.",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952261896927600660",
+      "type": "Default",
+      "timestamp": "2022-03-12T17:48:48.398+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone This app is awesome. I highly recommend putting your characters in here if you can! If you do, lmk and you can export them to me",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952261909510500392",
+      "type": "Default",
+      "timestamp": "2022-03-12T17:48:51.398+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Play Store Download: https://play.google.com/store/apps/details?id=com.andrewsheridan.cyberpunk_red_companion\n\nApp Store Download: https://apps.apple.com/us/app/cp-red-companion/id1539086212",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Cyberpunk Red Companion - Apps on Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.andrewsheridan.cyberpunk_red_companion",
+          "timestamp": null,
+          "description": "Unofficial companion app for the tabletop RPG Cyberpunk Red",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/V_ueciAUS37JlEoYgYviUB6bkw8dJVqND8bLvkE2pgQ/https/play-lh.googleusercontent.com/Dg-A9R7eN_p6LGxWkRjRgYR8ERZ0S7N-yXIvZ1-lkgYIMYboqbaGfC8xF1bOb1T7Kon3",
+            "width": 512,
+            "height": 250
+          },
+          "fields": []
+        },
+        {
+          "title": "‎Cyberpunk Red Companion",
+          "url": "https://apps.apple.com/us/app/cp-red-companion/id1539086212",
+          "timestamp": null,
+          "description": "‎Unofficial companion app for the Tabletop RPG Cyberpunk Red. \n\n- Inventory Management\n- Skills & Stats\n- Lifepath\n- Combat Management\n- Dice Rolling\n- Character Sharing\n- Take notes, track objectives, and compile contacts\n- NPC generation",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/HC_hicuu8nITatwqgTcMD4eD3M1A7X59JQSLkDzgJ8A/https/is4-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/f8/d7/a4f8d741-93da-f432-26ff-79e5d3365a19/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952274002192252979",
+      "type": "Default",
+      "timestamp": "2022-03-12T18:36:54.518+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone An example of the app on action. I made Antoni! It helps you roll for things, keep track of combat, and tells you what your things do (without having to look them up yourself)",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952274097054830592",
+      "type": "Default",
+      "timestamp": "2022-03-12T18:37:17.135+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://photos.app.goo.gl/GHvV85TYSdbEtG8f6",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "New video by Greg King",
+          "url": "https://photos.app.goo.gl/GHvV85TYSdbEtG8f6",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/lPyiFCgS6zsw_SGXHUWJrj9ddIGvZQR4gO2WDx3r93k/https/lh3.googleusercontent.com/174mCzKZHk81xaIzNQs-EMo1wDYIfpKJrLC3XL1KGgtwCzbMVph5W2UH4vofPpzR4oJMyBLW4WiLR6-fmRow7vz4EJX-Vg6oGW-RGJ5_J0fIukGfiWYrwfsZEySvlkm_QBmiXNzlZgM%3Dw600-h315-p-k-no",
+            "width": 600,
+            "height": 315
+          },
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952278210635255809",
+      "type": "Default",
+      "timestamp": "2022-03-12T18:53:37.889+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Right when I finished working on making him in the app too XD",
+      "author": {
+        "id": "458245748195328001",
+        "name": "LizardBoi",
+        "discriminator": "3837",
+        "nickname": "Antoni [Gabe]",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458245748195328001/ca5003b6ec77d2c1a464dc3430b535e1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952284159299166249",
+      "type": "Default",
+      "timestamp": "2022-03-12T19:17:16.161+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE0B",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952284256133074954",
+      "type": "Default",
+      "timestamp": "2022-03-12T19:17:39.248+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Export it and send it to me! I'm sure you did a better job than I did",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "953251720023134270",
+      "type": "Default",
+      "timestamp": "2022-03-15T11:22:00.614+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "The deets for cyberpsychosis, I know you guys were asking:",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "953251720249634876",
+          "url": "https://cdn.discordapp.com/attachments/946777280154316810/953251720249634876/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 32926
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "953251744454959134",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2022-03-15T11:22:06.439+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "953251720023134270",
+        "channelId": "946777280154316810",
+        "guildId": null
+      }
+    },
+    {
+      "id": "953266496296075354",
+      "type": "Default",
+      "timestamp": "2022-03-15T12:20:43.552+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yay mental illness",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD26‍♂️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f926-200d-2642.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "956570636900241408",
+      "type": "Default",
+      "timestamp": "2022-03-24T15:10:12.06+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Here's a resource for you to explore Night City and get a feel for what's where.  Make sure the Cyberpunk RED selection is clicked on at the top. The 2077 one is over 30 years in the future.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "956570638976442379",
+      "type": "Default",
+      "timestamp": "2022-03-24T15:10:12.555+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.nightcity.io/red",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Cyberpunk 2077 Night City Interactive Map",
+          "url": "https://www.nightcity.io/red",
+          "timestamp": null,
+          "description": "Night City Interactive Map for Cyberpunk 2077",
+          "color": "#161616",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/yUpHCkBfkcmPGzVqKNpSEkeU8LZ34-z0GRb6ytM8OZA/%3Fv%3D2/https/www.nightcity.io/images/seo/meta-default.png",
+            "width": 1200,
+            "height": 630
+          },
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "956573256750596196",
+      "type": "Default",
+      "timestamp": "2022-03-24T15:20:36.681+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Awesome : )",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "959436027590742057",
+      "type": "Default",
+      "timestamp": "2022-04-01T12:56:14.437+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "959436027330719784",
+          "url": "https://cdn.discordapp.com/attachments/946777280154316810/959436027330719784/HME_SDCH-Open.png",
+          "fileName": "HME_SDCH-Open.png",
+          "fileSizeBytes": 857004
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "959438090622107708",
+      "type": "Default",
+      "timestamp": "2022-04-01T13:04:26.302+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Memory chips?",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "959438651371184160",
+      "type": "Default",
+      "timestamp": "2022-04-01T13:06:39.995+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Reminds me of those cases for DS cartridges",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "959439049809072178",
+      "type": "Default",
+      "timestamp": "2022-04-01T13:08:14.99+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "LMAO",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 33
+}

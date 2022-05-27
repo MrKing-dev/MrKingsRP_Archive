@@ -1,0 +1,127 @@
+{
+  "guild": {
+    "id": "891103869097082901",
+    "name": "Mr.King's RP Games",
+    "iconUrl": "https://cdn.discordapp.com/icons/891103869097082901/a463d7b6979660de1a49b4eb3496507b.png"
+  },
+  "channel": {
+    "id": "897228326517747792",
+    "type": "GuildTextChat",
+    "categoryId": "893621485246218320",
+    "category": "Out of Session Roleplay",
+    "name": "general-rp-rules",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "897229468152782848",
+      "type": "Default",
+      "timestamp": "2021-10-11T21:09:34.925+00:00",
+      "timestampEdited": "2021-10-11T22:16:01.633+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "@here \n***!!GENERAL RP RULES!!***\n          *These are just the basics for when anyone rps here. Please try your best to follow them, though if broken there isn't any actually punishment; these are all just common courtesies for anyone partaking/reading the rp.*\n\n1.) If you want to talk out of character about something that doesn't affect the rp or in someone else's rp out of character, please speak in #out-of-character-commentary. That way we can keep each rp very clean.\n\n2.) If you need to speak out of character in your rp, please use )), }}, ]], or some variation so that others are less confused. \n\n3.) If you say something out of character, PLEASE separate your messages from the actual rp somehow.\n\n4.) Please don't type the whole thing in one message, or if you do, please add )), }}, ]], or some variation so that others are less confused. \n\n5.) If the entire group is together(all four player characters in the same space at the same time) everyone should move to the #group-rp channel. Do not use this rp channel for anything else.\n\n6.) When an rp session is completely done and you are no longer going to use the room, please type ***!!!RP END, ROOM OPEN!!!*** so that others can use that room if they need to.\n\n7.)Even if it's tempting, try not to read other people's rps if you aren't there, or if you do, make sure your character can reflect the fact that THEY do not know this information. It's not a big deal as long as you don't suddenly make your character omnipotent when they very much are not.\n\n8.) If you want to rp without the chance of anyone seeing other then Mr.King, please request a private room. These are only by request though, so make sure to think before you select an rp room!",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "897229469809512479",
+      "type": "Default",
+      "timestamp": "2021-10-11T21:09:35.32+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GG @Max-A-Million, you just advanced to level 10!",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": "#9B59B6",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "570765952665387024",
+          "name": "Max-A-Million",
+          "discriminator": "8539",
+          "nickname": "Louz [Maximilian]",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "897246292634402816",
+      "type": "Default",
+      "timestamp": "2021-10-11T22:16:26.194+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone The rules have been updated again",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "897246315329753098",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2021-10-11T22:16:31.605+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "897229468152782848",
+        "channelId": "897228326517747792",
+        "guildId": null
+      }
+    }
+  ],
+  "messageCount": 4
+}

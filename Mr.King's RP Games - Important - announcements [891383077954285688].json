@@ -1,0 +1,162 @@
+{
+  "guild": {
+    "id": "891103869097082901",
+    "name": "Mr.King's RP Games",
+    "iconUrl": "https://cdn.discordapp.com/icons/891103869097082901/a463d7b6979660de1a49b4eb3496507b.png"
+  },
+  "channel": {
+    "id": "891383077954285688",
+    "type": "GuildTextChat",
+    "categoryId": "891103869097082902",
+    "category": "Important",
+    "name": "announcements",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "953979948186599434",
+      "type": "Default",
+      "timestamp": "2022-03-17T11:35:43.738+00:00",
+      "timestampEdited": "2022-03-17T11:36:33.151+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Due to some confusion and frustration in this server, I want to make an official announcement on this, so people not only know my stance, but how this behavior will be treated going forward. From now on, I am asking everyone in this server to talk about non-cannon discussions in #non-cannon-discussions. This is to be respectful to others in the server, and will hopefully cause less confusion going forward. Keep in mind, this only applies to long message threads (10+ msgs). If it's just a joke or an idea in passing, I will not ask you to move.",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "953980352878223371",
+      "type": "Default",
+      "timestamp": "2022-03-17T11:37:20.224+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "953980352945352744",
+          "url": "https://cdn.discordapp.com/attachments/891383077954285688/953980352945352744/Screenshot_20220317-073704.png",
+          "fileName": "Screenshot_20220317-073704.png",
+          "fileSizeBytes": 207438
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "953980429919215636",
+      "type": "Default",
+      "timestamp": "2022-03-17T11:37:38.592+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDD2F",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "954081745144250439",
+      "type": "Default",
+      "timestamp": "2022-03-17T18:20:14.024+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone In cooperation with @Max-A-Million I have decided to take a step back from the discord server.  What does that mean?  I will only be able to see and interact in the cyberpunk category and the out of session roleplay category.  If you need to @ me, do it in #jims-donuts-lounge .  Why did I do this?  Because I felt as if my presence in the other channels only added undue stress for me and unspoken (or spoken!) restrictions on the rights and ability  of others to enjoy the server.  If you have any questions for or about me in the future, please DM me directly.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "570765952665387024",
+          "name": "Max-A-Million",
+          "discriminator": "8539",
+          "nickname": "Louz [Maximilian]",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "971127976420859974",
+      "type": "Default",
+      "timestamp": "2022-05-03T19:15:52.264+00:00",
+      "timestampEdited": "2022-05-03T19:16:27.584+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone  With prom being on May 13 and at least a couple of us impacted by that, are we willing to shift that game to Thursday May 12?  Thumbs up or down.   \uD83D\uDC4D \uD83D\uDC4E",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 5
+}

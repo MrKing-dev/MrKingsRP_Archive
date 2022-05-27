@@ -1,0 +1,2668 @@
+{
+  "guild": {
+    "id": "891103869097082901",
+    "name": "Mr.King's RP Games",
+    "iconUrl": "https://cdn.discordapp.com/icons/891103869097082901/a463d7b6979660de1a49b4eb3496507b.png"
+  },
+  "channel": {
+    "id": "897209819319107614",
+    "type": "GuildTextChat",
+    "categoryId": "891383671892877402",
+    "category": "World Of Darkness-The Scottish Holiday",
+    "name": "group-rp",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "897210287881584671",
+      "type": "Default",
+      "timestamp": "2021-10-11T19:53:21.992+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "OwO",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "897210322228768858",
+      "type": "Default",
+      "timestamp": "2021-10-11T19:53:30.181+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":0",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "898743525825470554",
+      "type": "Default",
+      "timestamp": "2021-10-16T01:25:54.404+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone It is 15-20 minutes from your start point to...wherever you're headed? I'm going assume that Becca is pushing this BEAST to the limits of what it can handle under the circumstances.  Therefore, you guys have approximately 15 minutes of IG time for any conversations that need to happen on the way.  Be mindful of others Discord time limitations, please.  I will be happy to RP Mighty Pines if need be.  Also, any interactions with the car can be made in this time if need be.  Let me know what you need.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE43",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f643.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "898744165637165057",
+      "type": "Default",
+      "timestamp": "2021-10-16T01:28:26.947+00:00",
+      "timestampEdited": "2021-10-16T01:29:26.425+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((\"Mighty Pines\"... mhmmm... definitely not an imposter))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "898744237259100180",
+      "type": "Default",
+      "timestamp": "2021-10-16T01:28:44.023+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Please use (())",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "898744475743043594",
+      "type": "Default",
+      "timestamp": "2021-10-16T01:29:40.882+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Brain Mush rn lol))",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "898744477982810173",
+      "type": "Default",
+      "timestamp": "2021-10-16T01:29:41.416+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Also, any time Becca conversates, she needs to make a DEX + Drive + 1 roll because of the circumstances))",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "898744574971891722",
+      "type": "Default",
+      "timestamp": "2021-10-16T01:30:04.54+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((You guys have a week, no worries.  I'm just setting it up))",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "898744690181033995",
+      "type": "Default",
+      "timestamp": "2021-10-16T01:30:32.008+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((kk))",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "898744794812133396",
+      "type": "Default",
+      "timestamp": "2021-10-16T01:30:56.954+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Sounds good. I'm not going to rp tonight because I need to update my sheet but we can totally get it done over a week))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899003112386359296",
+      "type": "Default",
+      "timestamp": "2021-10-16T18:37:24.663+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "When you get a chance to look around the car, here's what you see: The car has some items (arrow tips that got lost in the seats, empty gun clips stuffed under seats) but on the whole, it looks decently clean. Notably, the driver's seat/section is expertly clean, and the back seats have the most items that seem to be strewn in as Peregrine was driving.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899003290489069589",
+      "type": "Default",
+      "timestamp": "2021-10-16T18:38:07.126+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also, while Max did not recognize the car itself, being in the car feels comfortable and familiar.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899704338753142824",
+      "type": "Default",
+      "timestamp": "2021-10-18T17:03:50.057+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone ((Additionally, it's important that we establish, either via roleplay here or externally via discussion, where our group is headed.  I'll need to know this information as I plan for Friday - the sooner the better)).",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899707355908960296",
+      "type": "Default",
+      "timestamp": "2021-10-18T17:15:49.403+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((I think Becca would go to the prince, if she knows where to meet him, which I assume she does))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899713549385998386",
+      "type": "Default",
+      "timestamp": "2021-10-18T17:40:26.043+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((I'm barely available tonight, but I could try. In theory, I have about 20 minutes there))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899713717195931678",
+      "type": "Default",
+      "timestamp": "2021-10-18T17:41:06.052+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((?))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899713852269273119",
+      "type": "Default",
+      "timestamp": "2021-10-18T17:41:38.256+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Oh, I get the confusion. I can try for 20 minutes around 5:30))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899713914806337536",
+      "type": "Default",
+      "timestamp": "2021-10-18T17:41:53.166+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Ohhh, okay!))",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899714217362489446",
+      "type": "Default",
+      "timestamp": "2021-10-18T17:43:05.301+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((I just remembered, that is usually when Gattone is asleep. It will have to be up to them, if they are awake))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899720707515244594",
+      "type": "Default",
+      "timestamp": "2021-10-18T18:08:52.674+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((In no way does it need to be synchronous.  That's the beauty of discord.  You can post something and wait for someone else to post something.  No biggie))",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899722572986470430",
+      "type": "Default",
+      "timestamp": "2021-10-18T18:16:17.437+00:00",
+      "timestampEdited": "2021-10-18T18:16:22.46+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Fair enough. Anyone else have input on where they think we would be going? Also, Mr. King, Becca would know where Prince Ian is, right?))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899722854902411314",
+      "type": "Reply",
+      "timestamp": "2021-10-18T18:17:24.651+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((??? My dude I am awake at that time?))",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "494980436532133891",
+          "name": "ironavenger344",
+          "discriminator": "5036",
+          "nickname": "Pulse [Allison]",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "899714217362489446",
+        "channelId": "897209819319107614",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "899723107386949682",
+      "type": "Reply",
+      "timestamp": "2021-10-18T18:18:24.848+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((You almost always seem to get home and just collapse, my dude, I thought you went to sleep at 4 unintentionally like all the time))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "570765952665387024",
+          "name": "Max-A-Million",
+          "discriminator": "8539",
+          "nickname": "Louz [Maximilian]",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "899722854902411314",
+        "channelId": "897209819319107614",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "899723181718372402",
+      "type": "Default",
+      "timestamp": "2021-10-18T18:18:42.57+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((My bad if I'm wrong))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899723232792440832",
+      "type": "Reply",
+      "timestamp": "2021-10-18T18:18:54.747+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((... I go to sleep at 8pm XD))",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "494980436532133891",
+          "name": "ironavenger344",
+          "discriminator": "5036",
+          "nickname": "Pulse [Allison]",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "899723107386949682",
+        "channelId": "897209819319107614",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "899723299548975105",
+      "type": "Default",
+      "timestamp": "2021-10-18T18:19:10.663+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((If you say so lol))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899723468482965504",
+      "type": "Default",
+      "timestamp": "2021-10-18T18:19:50.94+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((I DO I SWEAR))",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899723896280993833",
+      "type": "Default",
+      "timestamp": "2021-10-18T18:21:32.935+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Aaaaaaanyway, while you're here, any input on where we are going?))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899724186224844830",
+      "type": "Default",
+      "timestamp": "2021-10-18T18:22:42.063+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Not really, Max would wanna go to the Prince, so if Becca doesn't know where he is then Max definitely does and can help get them there))",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899724640946114640",
+      "type": "Default",
+      "timestamp": "2021-10-18T18:24:30.477+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Ok, so that's 2 votes for the prince))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899725008711086080",
+      "type": "Default",
+      "timestamp": "2021-10-18T18:25:58.159+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((I'd probably have to vote for the prince to, it should be helpful to let him know about this threat \uD83D\uDE05))",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899739176788971541",
+      "type": "Default",
+      "timestamp": "2021-10-18T19:22:16.092+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Ok, so to be clear - skip the pub, find the prince?))",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "899739387263332443",
+      "type": "Default",
+      "timestamp": "2021-10-18T19:23:06.273+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((If everyone else is cool with it, then yeah))",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899743413405106266",
+      "type": "Default",
+      "timestamp": "2021-10-18T19:39:06.18+00:00",
+      "timestampEdited": "2021-10-18T19:40:04.852+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Prince Ian lives in a hotel in the city center called Kingsmills Hotel (https://www.kingsmillshotel.com/).  It's classic Ian and classic Inverness - a 3.5 star hotel playing at a 5 star experience, the veneer of luxury with a bit of an aftertaste.  Just down the street are a few parks where families like to walk, some hair salons, and a primary school.  Prince Ian and his crew live in the \"Kingsclub Rooms\", a separate section of the hotel that Ian calls \"The Presidential Suite\"  (that's not what it's called https://www.kingsmillshotel.com/our-rooms/kingsclub-rooms/).  In reality, you think Ian likes it because the name \"King\" is in it.*",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "899744330384810004",
+      "type": "Default",
+      "timestamp": "2021-10-18T19:42:44.805+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899770728755367937",
+      "type": "Default",
+      "timestamp": "2021-10-18T21:27:38.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((I found car chase music to play while we do this scene :D))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899770794668875777",
+      "type": "Default",
+      "timestamp": "2021-10-18T21:27:54.382+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((That would be so cool !!))",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899770806287106058",
+      "type": "Default",
+      "timestamp": "2021-10-18T21:27:57.152+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Amazing))",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899770971018395668",
+      "type": "Default",
+      "timestamp": "2021-10-18T21:28:36.427+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((I also just found some good songs, so I will be vibing through this whole experience))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899771080619741256",
+      "type": "Default",
+      "timestamp": "2021-10-18T21:29:02.558+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Nicceee))",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899771189256405023",
+      "type": "Default",
+      "timestamp": "2021-10-18T21:29:28.459+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Also, I'm ready when everyone else is :D))",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899771264384774225",
+      "type": "Default",
+      "timestamp": "2021-10-18T21:29:46.371+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Did we ever see if Mr. King was even available for this time? XD))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899771297347797064",
+      "type": "Default",
+      "timestamp": "2021-10-18T21:29:54.23+00:00",
+      "timestampEdited": "2021-10-18T21:30:00.408+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((.<.))",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899771360316883035",
+      "type": "Default",
+      "timestamp": "2021-10-18T21:30:09.243+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((You have a point.))",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899771406131265547",
+      "type": "Default",
+      "timestamp": "2021-10-18T21:30:20.166+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Uhhhh good point XD))",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899771892980928533",
+      "type": "Default",
+      "timestamp": "2021-10-18T21:32:16.24+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((I upgraded dex so I can drive better, guys))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899771943228686346",
+      "type": "Default",
+      "timestamp": "2021-10-18T21:32:28.22+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Thats great ! :D))",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899799894024421416",
+      "type": "Default",
+      "timestamp": "2021-10-18T23:23:32.209+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((I'm so sorry everyone. I didn't really think of it. That's about the worst time for me, but I'm sure you could do it without me if need be))",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899800005102174218",
+      "type": "Default",
+      "timestamp": "2021-10-18T23:23:58.692+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((It's alright ! ))",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "899802612881317898",
+      "type": "Reply",
+      "timestamp": "2021-10-18T23:34:20.435+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Its not a big deal, we mostly didn't start cause Jeremiah wasn't here, and it would suck if he got left out again))",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "294416680799567872",
+          "name": "OnlyaJedi",
+          "discriminator": "3499",
+          "nickname": "OnlyaJedi",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "899799894024421416",
+        "channelId": "897209819319107614",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "899803454317408306",
+      "type": "Default",
+      "timestamp": "2021-10-18T23:37:41.049+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Truth. Honestly, if you guys get to do it, that's great. If not, no big deal. With the way Becca drives, it'll take 10 minutes to get to the hotel. We can go through what happens on the drive once we start next time if we need to))",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "900085600818982962",
+      "type": "Default",
+      "timestamp": "2021-10-19T18:18:50.017+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone ((Based on your decision on destination and on some of my planning for Friday that I've been doing, I would like to revoke my request for you to do the driving RP via Discord.  It is my feeling that things would work out best if we began Friday where we left off last week.  If you feel strongly that we should take care of the car via Discord, please react with the car.  If you are ok with waiting to handle things on Friday, react with Fluttershy.))",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDFCE️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f3ce.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "895815350300577842",
+            "name": "Zahir",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/895815350300577842.png"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "900085866637189161",
+      "type": "Default",
+      "timestamp": "2021-10-19T18:19:53.393+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Jack, you did both!  That wasn't an option! \uD83D\uDE09 )",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "900085934966595707",
+      "type": "Default",
+      "timestamp": "2021-10-19T18:20:09.684+00:00",
+      "timestampEdited": "2021-10-19T18:20:14.963+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I clicked them before reading  ;<;))",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "900102768042336327",
+      "type": "Default",
+      "timestamp": "2021-10-19T19:27:03.002+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((The Gang has spoken))",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "897816585929109525",
+            "name": "not_peregrine",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/897816585929109525.png"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "900102778431615046",
+      "type": "Default",
+      "timestamp": "2021-10-19T19:27:05.479+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "!!!RP END, ROOM OPEN!!!",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "906662826163200072",
+      "type": "Default",
+      "timestamp": "2021-11-06T21:54:22.738+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For option 3 from #general : The roleplay at the pub goes generally as it did with the following changes: Moonshine still went to see Ian and got mind wiped etc. Ian and gang were still in the pub. Ian was angry at the team *because they took on an assignment without telling him or involving him.* Also, he is extremely paranoid about werewolves and is convinced that the gang will bring them down on him. He kicks them out and plans to inhabit the pub indefinitely for now, for these specific reasons.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "906662853568786463",
+      "type": "Default",
+      "timestamp": "2021-11-06T21:54:29.272+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Max-A-Million",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "570765952665387024",
+          "name": "Max-A-Million",
+          "discriminator": "8539",
+          "nickname": "Louz [Maximilian]",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "906663085027254282",
+      "type": "Default",
+      "timestamp": "2021-11-06T21:55:24.456+00:00",
+      "timestampEdited": "2021-11-06T21:55:32.882+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you!))",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDDDB‍♂️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f9db-200d-2642.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "908857226381373451",
+      "type": "Default",
+      "timestamp": "2021-11-12T23:14:08.52+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone I'm commandeering this channel to post the information on the equipment you got today.  I'll post one line per weapon and a single post afterward with all of the other equipment.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "908860948285124689",
+      "type": "Default",
+      "timestamp": "2021-11-12T23:28:55.891+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Compound Bow**\nDamage:  STR+1 Lethal (Requires 3 STR Min)\nRange: Short Range (STR+Size+Athletics)x4    Medium Range (Short Rangex2)   Long Range (Medium Rangex2)\n1 Turn to Reload (can only fire every other round)\nAiming Device (Reduces penalties for aiming by 2)\nBroadhead carbon arrows (+1 to damage, cannot stake a vampire)\nBodkin Armon Piercing (wooden, reduces target's armor by 1, home-made)\n\n*Example of play using Becca.  \n\nBecca tries to shoot a deer to bring it down as it runs away at a distance.  Her STR is 3, Size is 5, ATH is 1.  9x4 is 36.  36x4 is 144 yards max distance (Becca can hit a target a football field and a half away).  She rolls a dice pool of DEX+ATH+(STR+1)+1(broadhead arrows) = 10 dice.  This pool is reduced by 4 dice for shooting at long range.  She still rolls 6 dice to hit the deer, rolling 2 successes and bringing it down so she can feed.\n\nBecca attempts to stake Ian with her bodkin arrows at 30 yards (short range).  She is using her standard dice pool of DEX+ATH+(STR+1) = 9.  This will be reduced by 4 for aiming at the heart, but her aiming device makes it only 2.  She knows she'll need a minimum of 5 successes to get an actual stake (those are the rules), so she stacks the deck.  She activated Vigor earlier in the scene, adding 3 dice to her STR - her STR adds to her damage.  She also now spends a Willpower to add 3 more dice to this single roll.  That's 9-2+3+3=13 dice.   She'll need 5 successes to stake a vampire.*",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "908861426926514256",
+      "type": "Default",
+      "timestamp": "2021-11-12T23:30:50.008+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Crossbow**\nDamage:  3L (2 STR required)\nRange: 40/80/160\n2 turns to reload with the included cocking device.  3 if this is lost or broken.\nScope equipped (reduced the penalty for shooting at Medium Range to nothing)",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "908861778807648296",
+      "type": "Default",
+      "timestamp": "2021-11-12T23:32:13.903+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Tuned Remington 700**\nDamage: 4L 9 Again\nRange: 250/500/1000\n4 +1 clip\nScope equipped (reduces the penalty for shooting at Medium Range to nothing and at Long Range to -2)",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "908862008307363890",
+      "type": "Default",
+      "timestamp": "2021-11-12T23:33:08.62+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**.44 Magnum Revolver \"Live Free\"**\nDamage:  3L 9 Again\nRange: 35/70/140\n6 shots",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "908862190541479937",
+      "type": "Default",
+      "timestamp": "2021-11-12T23:33:52.068+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**.38 Snub Police Edition**\nDamage: 2L\nRange: 20/40/80\n5 shots",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "908862506028646441",
+      "type": "Default",
+      "timestamp": "2021-11-12T23:35:07.286+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Notes**\nBow, Crossbow, and Rifle have slings.  .38 snubs can be concealed in a pocket.  .44 Magnum can be concealed under a large jacket.   There are 2 .38 snubs",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "908863162462404639",
+      "type": "Default",
+      "timestamp": "2021-11-12T23:37:43.792+00:00",
+      "timestampEdited": "2021-11-12T23:42:20.171+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Equipment**\nProfessional Ear Protection\nFlashlight and weapon mount\nWeapon sighting tools\nWire tap (old school, connects to hard-wired phones/ phone lines and has tape recorder)\nWifi-sniffer (connects to laptop or smartphone, allows for processing wifi traffic with Computer check)\nBasic survival kit\nVoice Modulator\nFlak Jacket\nRiot Gear\nThermal Camera for Security System\n\n*Ask for notes on anything specific*",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "908863267701657661",
+      "type": "Default",
+      "timestamp": "2021-11-12T23:38:08.883+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Feel free to discuss anything OOC or IC*",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "908922431501139968",
+      "type": "Default",
+      "timestamp": "2021-11-13T03:33:14.632+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nice!",
+      "author": {
+        "id": "895864458981826641",
+        "name": "atomzz240",
+        "discriminator": "9813",
+        "nickname": "atomzz240",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/895864458981826641/7f798a6274e9c7dd7a5b6f00c6a6258b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911426331244376114",
+      "type": "Default",
+      "timestamp": "2021-11-20T01:22:50.851+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone ((I'm going to use this channel to address three items for wrapup from today's session.  It's not technically roleplay, but it's roleplay-adjacent so there.  FIrst, I'll go over the timeline to get our head's straight.  Second, I'll discuss the ball location and vampire travel concerns.  Third, we'll deal with feeding.  \n\nFor timeline, I'm going to use dates as the date the evening you wake up.  I feel as if this simplifies things.  Therefore:\n\nNov. 30:  The mages touch base, you head to the distillery, you meet the werewolves, Ian takes the pub, you go to Max's apartment, you acquire new equipment.\n\nDec. 1: The team plans to overthrow Ian.  Becca and Zahir wash the car.  The team observes the pub via the security cameras\n\nDec 2:  The team attacks, Becca finds she's an excellent shot, Regina et. al. deliver a message from her father, they inherit a castle.\n\nDec. 3:  TBA\n\nDec. 4:  A celebratory ball is planned at Osterly House Estate in London.\n\nOsterly House is on the outskirts of London.  When the team looks into travel, they'll find they essentially have three options.  \n\n1.  Drive.  It takes 9 hours and 45 minutes to drive from Inverness to Osterly House.  They're expected at 8pm on Dec. 4th.  This is the safest option, but also the longest.  This option would pack them all in a car for a long time.  Also, they'd have to be careful not to draw attention.  The time listed above is for using highways - back roads would take longer.\n\n2. Train.  It takes 8 hours and 30 minutes via train to get to London.  They will send a car to pick you up at the train station. This option is faster, but does coop you up in a train for a long time.  You'll need to make sure you aren't hungry!!  Also, that you don't act dumb.\n\n3. Plane.  It's 1 hour and 30 minutes on a plane to get to London.  This option also requires *vampires* to get through *airport security*. Not to mention being cooped up in a flying box. Usually doesn't go well.  ))",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911426568566480926",
+      "type": "Default",
+      "timestamp": "2021-11-20T01:23:47.433+00:00",
+      "timestampEdited": "2021-11-20T01:26:58.648+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((I'll be happy to handle any OOC questions and discussion about travel and feeding and timeline in here.  Feel free to grab a RP room and let me know for any feeding RP you'd like to do.  Same if anyone wants to do any RP regarding travel plans, etc.  NOTE:  It will take the rest of the current night to clean up after taking down Ian, chase off any remaining bag guys, board up the door, and settle into the pub))",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "911426709587378226",
+      "type": "Default",
+      "timestamp": "2021-11-20T01:24:21.055+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Also, here's the document from earlier:",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "911426709000171540",
+          "url": "https://cdn.discordapp.com/attachments/897209819319107614/911426709000171540/In_Inverness_and_in_London_November_29_2021.pdf",
+          "fileName": "In_Inverness_and_in_London_November_29_2021.pdf",
+          "fileSizeBytes": 7078625
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "912372770862682212",
+      "type": "Default",
+      "timestamp": "2021-11-22T16:03:39.64+00:00",
+      "timestampEdited": "2021-11-22T16:05:20.866+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Due to Max being a workaholic and dealing with other issues, Becca will be making travel plans. No matter how much Becca enjoys driving, 10 hours of driving is exhausting in any circumstance, and she is NOT trusting anyone but herself with Peregrine's car. So, she would probably plan to take the train on December 3rd at around 10 PM (that gives them 10 hours to get to the castle where the ball will be held before it gets light). They will then spend the following day sleeping at the castle, and wake up in time the next night to explore and get ready for the ball.\n\nNow, Becca offers two options regarding travel (and since this travel is at night, everyone will be naturally awake for it):\n\n1) Anyone who is below 7 humanity HAS to use a vitae to look more humanlike and blend in with the people on the train (this applies to Moonshine and Max). The goal here is to look as natural as possible and blend in.\n\n2. The stake method. Becca lines the vampires up on a wall and shoots anyone willing in the chest with a wooden arrow (this can either be because you think it's a funny method of travel that your character would pursue, you don't want to spend a vitae, you are hungry for some reason, or you just think your character would be too nervous to travel on a train). Then, she puts them in a wooden crate and loads them as train cargo. She takes them out of torpor when they get to the castle (or at another convenient time), and tada, you are in London.\n\nKeep in mind that Mr. King intends to start our next session at the ball, so any roleplay anyone would want to do regarding the trip would have to be done before then via Discord. Still, please let me know here your character's decisions so that you either adjust your vitae accordingly, or everyone just knows how they all got there. Thanks!))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "912376981323120680",
+      "type": "Default",
+      "timestamp": "2021-11-22T16:20:23.492+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not much to say about Channard. He can take the train and still look like a human. I feel like it would really depend more on the rest of the group.",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "912378100598313030",
+      "type": "Default",
+      "timestamp": "2021-11-22T16:24:50.348+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((You mean I can't shoot him? Awww XD. Yeah, I figured he would just come along like the tired boy he is bound to be and maybe sleep on the train.))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "912391529358835744",
+      "type": "Reply",
+      "timestamp": "2021-11-22T17:18:12.014+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Worth noting, Zahir is 6 humanity.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "494980436532133891",
+          "name": "ironavenger344",
+          "discriminator": "5036",
+          "nickname": "Pulse [Allison]",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "912372770862682212",
+        "channelId": "897209819319107614",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "912391578574815263",
+      "type": "Default",
+      "timestamp": "2021-11-22T17:18:23.748+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE00\uD83D\uDC4D//",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "912391735584370729",
+      "type": "Default",
+      "timestamp": "2021-11-22T17:19:01.182+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Oops, I thought their character sheet said they had 7. Well, my previous statement applies to Zahir too, then.))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "912392950984618064",
+      "type": "Reply",
+      "timestamp": "2021-11-22T17:23:50.956+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He wishes he could sleep on a train.",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "494980436532133891",
+          "name": "ironavenger344",
+          "discriminator": "5036",
+          "nickname": "Pulse [Allison]",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "912378100598313030",
+        "channelId": "897209819319107614",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "912401309267804211",
+      "type": "Reply",
+      "timestamp": "2021-11-22T17:57:03.726+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That was previous, his is lower now too.  Becca is our only PC with a humanity above 6!",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "494980436532133891",
+          "name": "ironavenger344",
+          "discriminator": "5036",
+          "nickname": "Pulse [Allison]",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "912391735584370729",
+        "channelId": "897209819319107614",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "912401848974061648",
+      "type": "Default",
+      "timestamp": "2021-11-22T17:59:12.402+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ayyy",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "912403469707657246",
+      "type": "Default",
+      "timestamp": "2021-11-22T18:05:38.815+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "((Becca is now the only female PC in the campaign, as well as the shortest, most humane, designated driver, and owner of the haven. She is officially the best character I have ever played.))",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0E",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f60e.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "912403640084496394",
+      "type": "Default",
+      "timestamp": "2021-11-22T18:06:19.436+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(My better characters are chaos gremlins that would surely destroy the campaign so we don’t talk about them",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "912409134073270282",
+      "type": "Default",
+      "timestamp": "2021-11-22T18:28:09.305+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lol",
+      "author": {
+        "id": "895864458981826641",
+        "name": "atomzz240",
+        "discriminator": "9813",
+        "nickname": "atomzz240",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/895864458981826641/7f798a6274e9c7dd7a5b6f00c6a6258b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "912526485129142302",
+      "type": "Reply",
+      "timestamp": "2021-11-23T02:14:27.977+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Since Allison's too kind to do it, but it needs to be done, here's your ping.  Read and respond to her!!!!",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "494980436532133891",
+          "name": "ironavenger344",
+          "discriminator": "5036",
+          "nickname": "Pulse [Allison]",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "912372770862682212",
+        "channelId": "897209819319107614",
+        "guildId": "891103869097082901"
+      }
+    },
+    {
+      "id": "912526631913029642",
+      "type": "Default",
+      "timestamp": "2021-11-23T02:15:02.973+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In good time, of course - we have a week and a half.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "912541915197632552",
+      "type": "Default",
+      "timestamp": "2021-11-23T03:15:46.792+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can i go use a vitae since i have alot i wanna go train riding",
+      "author": {
+        "id": "895864458981826641",
+        "name": "atomzz240",
+        "discriminator": "9813",
+        "nickname": "atomzz240",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/895864458981826641/7f798a6274e9c7dd7a5b6f00c6a6258b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "937736275996344330",
+      "type": "Default",
+      "timestamp": "2022-01-31T15:49:10.495+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "937736275757244466",
+          "url": "https://cdn.discordapp.com/attachments/897209819319107614/937736275757244466/Green_revenant.jpg",
+          "fileName": "Green_revenant.jpg",
+          "fileSizeBytes": 852653
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "937741727660380171",
+      "type": "Default",
+      "timestamp": "2022-01-31T16:10:50.273+00:00",
+      "timestampEdited": "2022-01-31T16:14:17.685+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone Immediately after the events of last session:  \n\n*Moonshine runs toward the group of people and the glowing revenant.  As he approaches them, he collapses in a heap, his forehead mark searing pain throughout his body, blacking him out.  Before anyone can react, the revenant claps her hands and the townsfolk accompanying her, Moonshine, and the revenant herself disappear in a flash of blue light.\n\nOnce they recover from the shock, the three remaining members of the team (Channard, Max, and Becca) realize that they are outnumbered and outclassed, with a second injured teammate.  They decide to head back to the pub to regroup with Zahir, to heal, and to catch their collective breaths.*\n\nMeanwhile, elsewhere:\n\n*Moonshine is out for about an hour.  During the end of this time, he drifts in and out with a piercing headache, violent nausea, and a hunger like he's never felt before.  He hears voices, but cannot make out what they are saying.  He cannot move.  \n\nHe then starts gaining a small amount of clarity, but still cannot see.  He smells blood (food) but is unable to reach it, he feels steel at his wrists, arms, ankles, neck, and more.  He hears voices again:*\n\n\"And why is this process necessary?\"  \"The first step of the process is to draw out the beast - we must bring him to his most primal. To that end - torture as only a vampire can know it.\"\n\n*Moonshine feels an electric shock course through his body, starting at his forehead mark.  He collapses inward, focusing on his Auspex abilities, condensing all willpower left within on a singular goal of reaching out...*",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "937742268926922792",
+      "type": "Default",
+      "timestamp": "2022-01-31T16:12:59.321+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "// I am happy to rp some of the next steps of this here (or in other rooms), or to wait until Friday.  There would not be a lot to rp here in either case, and there would be no issues with people having to wait for others.  If you are happy to do a little rp here, please respond with the \uD83D\uDC4F  if you'd rather wait until Friday for everything, please respond with :Zahir:",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f44f.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "895815350300577842",
+            "name": "Zahir",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/895815350300577842.png"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "937743625213845524",
+      "type": "Default",
+      "timestamp": "2022-01-31T16:18:22.685+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(Me, who was just trying to learn German: \uD83D\uDC41\uD83D\uDC41",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "937787583797293076",
+      "type": "Default",
+      "timestamp": "2022-01-31T19:13:03.228+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "// @everyone I will wait for Moonshine's tie-breaking vote before moving forward, of course.  Worth noting what would be done on Discord if people decided that way, so you know what you're voting for: Any rp between the team back at the pub during the time Moonshine is out cold (while healing up and catching breaths, etc).  Additionally, the next stage of Moonshine's ordeal, which is involuntary and sets up what comes afterward.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "940582876368486401",
+      "type": "Default",
+      "timestamp": "2022-02-08T12:20:32.911+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone The group falls back to the pub after the events of the last mission, beaten, bruised, and in some cases, badly injured.  They arrive to find a building under siege.  Lex and Roaring Waters have been fighting valiantly, but the zombies are getting worse.  Upon their arrival, Lex suggests sealing the building (she already has prepared for this) and evacuating to Cawdor Castle, which the team does.  https://www.cawdorcastle.com/wp-content/uploads/2021/04/cawdor_castle_03-1024x542.jpg.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://www.cawdorcastle.com/wp-content/uploads/2021/04/cawdor_castle_03-1024x542.jpg.",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/8p3ABtO0ppVQoNQAnaK3LgNbm_V39o5JhdnXVB-F9_k/https/www.cawdorcastle.com/wp-content/uploads/2021/04/cawdor_castle_03-1024x542.jpg.",
+            "width": 1024,
+            "height": 542
+          },
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "940583223572987945",
+      "type": "Default",
+      "timestamp": "2022-02-08T12:21:55.691+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "//MY PUB",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "940585055028404234",
+      "type": "Default",
+      "timestamp": "2022-02-08T12:29:12.344+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(YOUR PUB",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "940593450489884672",
+      "type": "Default",
+      "timestamp": "2022-02-08T13:02:33.978+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone I'd like to know who is the least injured of the team, if possible (no rush)",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "940593808809267270",
+      "type": "Default",
+      "timestamp": "2022-02-08T13:03:59.408+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(Considering I'm lucky enough to be uninjured, probably me",
+      "author": {
+        "id": "458245748195328001",
+        "name": "LizardBoi",
+        "discriminator": "3837",
+        "nickname": "Antoni [Gabe]",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458245748195328001/ca5003b6ec77d2c1a464dc3430b535e1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "940596854817706005",
+      "type": "Default",
+      "timestamp": "2022-02-08T13:16:05.633+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(I think I got two lethal damage",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "940596922757029908",
+      "type": "Default",
+      "timestamp": "2022-02-08T13:16:21.831+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(So yeah it’s probably Goryo",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "940601268928385044",
+      "type": "Default",
+      "timestamp": "2022-02-08T13:33:38.039+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "940601268613832734",
+          "url": "https://cdn.discordapp.com/attachments/897209819319107614/940601268613832734/20220208_083249.jpg",
+          "fileName": "20220208_083249.jpg",
+          "fileSizeBytes": 533961
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "940601493877309450",
+      "type": "Default",
+      "timestamp": "2022-02-08T13:34:31.671+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(Rip Becca",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "940601650131923044",
+      "type": "Default",
+      "timestamp": "2022-02-08T13:35:08.925+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "//Considering this is the first damage she has ever taken, and she was the one to force yall into combat, I think she is pretty well off",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "940601967925936159",
+      "type": "Default",
+      "timestamp": "2022-02-08T13:36:24.693+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(I still can’t believe the roll I got when she was persuading them to go",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "940619505363718156",
+      "type": "Default",
+      "timestamp": "2022-02-08T14:46:05.944+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "//Goryo will not be considered for the circumstance I am discussing.",
+      "author": {
+        "id": "294416680799567872",
+        "name": "OnlyaJedi",
+        "discriminator": "3499",
+        "nickname": "OnlyaJedi",
+        "color": "#E29E36",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/294416680799567872/99ab9f059e1aee9c2f699ab371821867.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 104
+}

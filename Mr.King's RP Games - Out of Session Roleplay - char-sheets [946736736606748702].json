@@ -1,0 +1,356 @@
+{
+  "guild": {
+    "id": "891103869097082901",
+    "name": "Mr.King's RP Games",
+    "iconUrl": "https://cdn.discordapp.com/icons/891103869097082901/a463d7b6979660de1a49b4eb3496507b.png"
+  },
+  "channel": {
+    "id": "946736736606748702",
+    "type": "GuildTextChat",
+    "categoryId": "893621485246218320",
+    "category": "Out of Session Roleplay",
+    "name": "char-sheets",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "951475745736241152",
+      "type": "Default",
+      "timestamp": "2022-03-10T13:44:55.348+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "458245748195328001",
+        "name": "LizardBoi",
+        "discriminator": "3837",
+        "nickname": "Antoni [Gabe]",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458245748195328001/ca5003b6ec77d2c1a464dc3430b535e1.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "951475744998064198",
+          "url": "https://cdn.discordapp.com/attachments/946736736606748702/951475744998064198/20220310_084305.jpg",
+          "fileName": "20220310_084305.jpg",
+          "fileSizeBytes": 176666
+        },
+        {
+          "id": "951475745186791484",
+          "url": "https://cdn.discordapp.com/attachments/946736736606748702/951475745186791484/20220310_084317.jpg",
+          "fileName": "20220310_084317.jpg",
+          "fileSizeBytes": 132662
+        },
+        {
+          "id": "951475745518125096",
+          "url": "https://cdn.discordapp.com/attachments/946736736606748702/951475745518125096/20220310_084331.jpg",
+          "fileName": "20220310_084331.jpg",
+          "fileSizeBytes": 120369
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "951586700264607744",
+      "type": "Default",
+      "timestamp": "2022-03-10T21:05:48.969+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "888547833110741033",
+        "name": "ZENITHANMars058",
+        "discriminator": "3337",
+        "nickname": "Lexus [Chris]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/888547833110741033/e7c6e77d3a89ed1a48358d069319d95e.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "951586699006324807",
+          "url": "https://cdn.discordapp.com/attachments/946736736606748702/951586699006324807/20220310_110552.jpg",
+          "fileName": "20220310_110552.jpg",
+          "fileSizeBytes": 3632277
+        },
+        {
+          "id": "951586699580952606",
+          "url": "https://cdn.discordapp.com/attachments/946736736606748702/951586699580952606/20220310_110559.jpg",
+          "fileName": "20220310_110559.jpg",
+          "fileSizeBytes": 4392539
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "951586718769872896",
+      "type": "Default",
+      "timestamp": "2022-03-10T21:05:53.381+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "888547833110741033",
+        "name": "ZENITHANMars058",
+        "discriminator": "3337",
+        "nickname": "Lexus [Chris]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/888547833110741033/e7c6e77d3a89ed1a48358d069319d95e.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "951586718212059136",
+          "url": "https://cdn.discordapp.com/attachments/946736736606748702/951586718212059136/20220310_110611.jpg",
+          "fileName": "20220310_110611.jpg",
+          "fileSizeBytes": 3229723
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "951980323355381791",
+      "type": "Default",
+      "timestamp": "2022-03-11T23:09:56.027+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I tried my best to get all of it",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "951980322034188338",
+          "url": "https://cdn.discordapp.com/attachments/946736736606748702/951980322034188338/IMG_5992.jpg",
+          "fileName": "IMG_5992.jpg",
+          "fileSizeBytes": 2382228
+        },
+        {
+          "id": "951980322537488384",
+          "url": "https://cdn.discordapp.com/attachments/946736736606748702/951980322537488384/IMG_5993.jpg",
+          "fileName": "IMG_5993.jpg",
+          "fileSizeBytes": 2246636
+        },
+        {
+          "id": "951980322956906496",
+          "url": "https://cdn.discordapp.com/attachments/946736736606748702/951980322956906496/IMG_5994.jpg",
+          "fileName": "IMG_5994.jpg",
+          "fileSizeBytes": 2076670
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952285528932368404",
+      "type": "Default",
+      "timestamp": "2022-03-12T19:22:42.707+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Well, I messed around with the companion app, so I'll post Antoni's export code here\n\nTXREMP",
+      "author": {
+        "id": "458245748195328001",
+        "name": "LizardBoi",
+        "discriminator": "3837",
+        "nickname": "Antoni [Gabe]",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/458245748195328001/ca5003b6ec77d2c1a464dc3430b535e1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952568101008982036",
+      "type": "Default",
+      "timestamp": "2022-03-13T14:05:33.14+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'll put mine here too.\n\n4FLDWR",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952568426189160460",
+      "type": "Default",
+      "timestamp": "2022-03-13T14:06:50.669+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh shoot codes exist for them? Hold on",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952568822982905947",
+      "type": "Default",
+      "timestamp": "2022-03-13T14:08:25.272+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't think they update, though, so yall only get to see my base stats lol",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952569649235656766",
+      "type": "Default",
+      "timestamp": "2022-03-13T14:11:42.266+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How do you get codes",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952569813044174898",
+      "type": "Default",
+      "timestamp": "2022-03-13T14:12:21.321+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Main screen. Click on the three dots next to the character and click \"Export\".",
+      "author": {
+        "id": "494980436532133891",
+        "name": "ironavenger344",
+        "discriminator": "5036",
+        "nickname": "Pulse [Allison]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/494980436532133891/0b0f008aa51e2b4a714085992eac2563.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952569890479411200",
+      "type": "Default",
+      "timestamp": "2022-03-13T14:12:39.783+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Okay I see it",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952569913933967410",
+      "type": "Default",
+      "timestamp": "2022-03-13T14:12:45.375+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Here’s Case’s\n\nYEJUU1",
+      "author": {
+        "id": "346721923020881921",
+        "name": "₦Ʉ₥฿ɆⱤ ₣łVɆ",
+        "discriminator": "2705",
+        "nickname": "Blu (The Prophet)",
+        "color": "#2ECC71",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/346721923020881921/aeafcab3ada0a18315d8f909361f225e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 12
+}

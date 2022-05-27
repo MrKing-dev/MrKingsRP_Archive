@@ -1,0 +1,45 @@
+{
+  "guild": {
+    "id": "891103869097082901",
+    "name": "Mr.King's RP Games",
+    "iconUrl": "https://cdn.discordapp.com/icons/891103869097082901/a463d7b6979660de1a49b4eb3496507b.png"
+  },
+  "channel": {
+    "id": "891402180714704947",
+    "type": "GuildTextChat",
+    "categoryId": "891103869097082902",
+    "category": "Important",
+    "name": "tone-indicators",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "891403057382957066",
+      "type": "Default",
+      "timestamp": "2021-09-25T19:17:30.348+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "WHY WE USE TONE INDICATORS\n\nWe use them to indicate what our tone is when typing any messages digitally. This helps a lot of people who have a difficult time understanding tone through text like myself. These just help to clarify what the message is trying to convey such as facial expression, body language, voice inflection, etc. \n\nThey can be used anytime and any place u are communicating through text so I encourage u to use them even outside of this server.\n\n/j = joking\n/hj = half joking\n/s or /sarc = sarcastic / sarcasm\n/srs = serious\n/nsrs = not serious\n/lh = light hearted\n/g or /gen = genuine / genuine question\n/ij = inside joke\n/ref = reference\n/t = teasing\n/nm = not mad\n/lu = a little upset\n/nbh = nobody here\n/nay = not at you\n/nbr = not being rude\n/ot = off topic\n/cb = clickbait\n/f = fake\n/q = quote\n/l or /ly = lyrics\n/m = metaphor / metaphorically\n/li = literal / literally\n/rt or /rh = rhetorical question\n/hyp = hyperbole\n\nYou DO NOT Have to use these in every sentence such as sentences that can’t be interpreted as anything but that one thing such as “You look very nice today.” This can literally only hold positive implications so no need to add anything to it.\n\nIt is very harmful to use them in every single sentence so don’t.\n\n“I like that /srs” this is unnecessary and could make others feel babied and annoy them. “I like that” is perfectly fine.\n\nTo restate what I have in the rules: \nDO NOT use the tone indicators as a joke. You will be removed if it becomes a common occurrence.",
+      "author": {
+        "id": "570765952665387024",
+        "name": "Max-A-Million",
+        "discriminator": "8539",
+        "nickname": "Louz [Maximilian]",
+        "color": "#D80606",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/570765952665387024/cf3be31cf2e8c93bd0ff46927843e889.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}
